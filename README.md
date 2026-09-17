@@ -1,802 +1,564 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════
+<!-- =========================================================
      AMAN CHAPADIYA — GitHub Profile README
-     Crafted for maximum recruiter & engineering impact
-     Colors: Primary #00C853 | Secondary #009688 | Accent #2962FF
-════════════════════════════════════════════════════════════════════════════ -->
-
-<!-- ╔══════════════════════════════════════╗
-     ║         HERO BANNER                 ║
-     ╚══════════════════════════════════════╝ -->
+     Recruiter-focused | Clean | Animated | GitHub-safe
+     ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aman%20Chapadiya&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Engineer%20%7C%20Backend%20Architect%20%7C%20AI%20Builder&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
-
-</div>
-
-<!-- ╔══════════════════════════════════════╗
-     ║      ANIMATED TYPING HEADER         ║
-     ╚══════════════════════════════════════╝ -->
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00C853&center=true&vCenter=true&multiline=false&random=false&width=600&height=50&lines=Building+Systems+That+Scale+%F0%9F%9A%80;Full+Stack+%7C+Backend+%7C+AI+Applications;COO+%40+Eozka+%7C+CSE+Student;Turning+Ideas+Into+Production+Code+%E2%9A%A1)](https://git.io/typing-svg)
-
-</div>
-
----
-
-<!-- ╔══════════════════════════════════════╗
-     ║     PROFESSIONAL INTRODUCTION       ║
-     ╚══════════════════════════════════════╝ -->
-
-<div align="center">
-
-<table border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td width="55%" valign="top">
-
-## `> whoami`
-
-```typescript
-const aman = {
-  name:     "Aman Chapadiya",
-  handle:   "obscure-01",
-  role:     "CSE Student & Full Stack Engineer",
-  location: "Gurugram, Haryana 🇮🇳",
-  org:      "COO @ Eozka | Core @ TechTribe",
-  focus:    [
-    "Full Stack Development",
-    "Backend Engineering",
-    "System Design",
-    "AI Applications",
-  ],
-  currentlyBuilding: "Vinculo — Social Engagement Verification",
-  askMeAbout: ["Node.js", "PostgreSQL", "React", "System Design"],
-  funFact:  "I debug best at 2 AM ☕",
-};
-```
-
-</td>
-<td width="45%" valign="top" align="center">
+<a href="https://github.com/obscure-01">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C853,100:00BFA6&height=220&section=header&text=Aman%20Chapadiya&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Backend%20Engineer%20%7C%20AI%20Builder&descAlignY=59&descSize=17&animation=fadeIn" width="100%" alt="Aman Chapadiya" />
+</a>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=obscure-01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C853&icon_color=009688&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=00C853&center=true&vCenter=true&width=720&height=50&lines=Building+Products%2C+Not+Just+Projects+%F0%9F%9A%80;Full+Stack+%7C+Backend+%7C+System+Design;Turning+Ideas+Into+Working+Software+%E2%9A%A1;CSE+Student+%7C+Builder+%7C+Problem+Solver" alt="Typing animation" />
+</a>
 
-<img src="https://streak-stats.demolab.com?user=obscure-01&theme=tokyonight&hide_border=true&background=0D1117&ring=00C853&fire=00C853&currStreakLabel=009688&sideLabels=009688&stroke=2962FF&dates=8b949e" alt="GitHub Streak" width="100%" />
+<br><br>
 
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<!-- ╔══════════════════════════════════════╗
-     ║           ABOUT ME                  ║
-     ╚══════════════════════════════════════╝ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="28" /> &nbsp; About Me
-
-<table border="0" cellpadding="10">
-<tr>
-<td>
-
-I'm a **second-year B.Tech Computer Science Engineering student** who builds things that actually ship. From campus canteen management systems to AI-powered vulnerability scanners, I care deeply about the intersection of **elegant engineering**, **real-world impact**, and **systems that scale**.
-
-Currently wearing the **COO hat at Eozka** while contributing to the open-source and student-tech community via **TechTribe** and **Centre of Excellence**. I believe great software is 20% inspiration and 80% disciplined iteration.
-
-> *"The best code is the code that never needs to be explained."*
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ╔══════════════════════════════════════╗
-     ║          CURRENT FOCUS              ║
-     ╚══════════════════════════════════════╝ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" /> &nbsp; Current Focus
-
-<div align="center">
-
-<table border="0" cellpadding="12" cellspacing="8">
-<tr>
-<td align="center" width="160">
-<img src="https://img.shields.io/badge/Full%20Stack-00C853?style=for-the-badge&logoColor=white" /><br>
-<sub>End-to-end product delivery</sub>
-</td>
-<td align="center" width="160">
-<img src="https://img.shields.io/badge/Backend%20Eng-009688?style=for-the-badge&logoColor=white" /><br>
-<sub>Scalable server architecture</sub>
-</td>
-<td align="center" width="160">
-<img src="https://img.shields.io/badge/System%20Design-2962FF?style=for-the-badge&logoColor=white" /><br>
-<sub>High-availability systems</sub>
-</td>
-<td align="center" width="160">
-<img src="https://img.shields.io/badge/AI%20Applications-FF6D00?style=for-the-badge&logoColor=white" /><br>
-<sub>ML-integrated products</sub>
-</td>
-</tr>
-</table>
+<a href="https://github.com/obscure-01">
+  <img src="https://img.shields.io/github/followers/obscure-01?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+</a>
+<a href="https://github.com/obscure-01?tab=repositories">
+  <img src="https://img.shields.io/github/stars/obscure-01?style=for-the-badge&logo=github&label=Stars" alt="GitHub stars" />
+</a>
+<a href="https://komarev.com/ghpvc/?username=obscure-01">
+  <img src="https://komarev.com/ghpvc/?username=obscure-01&style=for-the-badge&color=00C853&label=PROFILE+VIEWS" alt="Profile views" />
+</a>
 
 </div>
 
 ---
 
-<!-- ╔══════════════════════════════════════╗
-     ║           TECH STACK                ║
-     ╚══════════════════════════════════════╝ -->
+## 👨‍💻 About Me
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp; Tech Stack
+<table>
+<tr>
+<td width="62%" valign="top">
+
+I'm **Aman Chapadiya**, a B.Tech Computer Science & Engineering student and software developer focused on building **practical, scalable and user-facing systems**.
+
+I enjoy working across the stack — from designing interfaces and APIs to structuring databases and thinking about system architecture.
+
+### What I work on
+
+* 🚀 Full-stack web applications
+* ⚙️ Backend systems & REST APIs
+* 🗄️ PostgreSQL & relational database design
+* 🧠 AI/ML-powered applications
+* 🏗️ System design & scalable architecture
+* 💡 Turning ideas into usable products
+
+### Currently building
+
+**Vinculo** — a social-media engagement tracking and verification platform.
+
+### Currently exploring
+
+**Distributed systems · Cloud · AI applications · Backend architecture**
+
+</td>
+
+<td width="38%" align="center" valign="top">
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="170" alt="Developer" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Focus-Full%20Stack-00C853?style=for-the-badge" alt="Full Stack" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Backend-Engineering-009688?style=for-the-badge" alt="Backend Engineering" />
+
+<br>
+
+<img src="https://img.shields.io/badge/AI-Applications-6C63FF?style=for-the-badge" alt="AI Applications" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
 ### Languages
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts&perline=5" alt="Programming languages" />
+
+<br><br>
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs&perline=5" alt="Frontend technologies" />
 
-### Backend
+<br><br>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+### Backend & Databases
 
-### Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql&perline=5" alt="Backend and databases" />
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<br><br>
 
-### Tools & Deployment
+### Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,netlify,railway,render&perline=9" alt="Tools and platforms" />
 
 </div>
 
 ---
 
-<!-- ╔══════════════════════════════════════╗
-     ║        DEVELOPER PHILOSOPHY         ║
-     ╚══════════════════════════════════════╝ -->
+## 🚀 Featured Projects
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bulb.png" width="28" /> &nbsp; Developer Philosophy
-
-<div align="center">
-
-<table border="0" cellpadding="16" cellspacing="4" width="90%">
+<table>
 <tr>
-<td align="center" width="25%">
-<h3>🏗️</h3>
-<strong>Build to Last</strong><br>
-<sub>Maintainable architecture over quick hacks. Future teammates are first-class users.</sub>
-</td>
-<td align="center" width="25%">
-<h3>⚡</h3>
-<strong>Ship Fast, Iterate</strong><br>
-<sub>Working software beats perfect software. Feedback loops are the real engine.</sub>
-</td>
-<td align="center" width="25%">
-<h3>🔍</h3>
-<strong>First Principles</strong><br>
-<sub>Understand the problem before reaching for a framework. Abstractions are earned.</sub>
-</td>
-<td align="center" width="25%">
-<h3>🤝</h3>
-<strong>Open Source Mindset</strong><br>
-<sub>Code is a conversation. Documentation is kindness. Reviews are collaboration.</sub>
-</td>
-</tr>
-</table>
+<td width="50%" valign="top">
 
-</div>
+### 🌦️ ORIGO
 
----
+**Weather-Aware City Exploration Platform**
 
-<!-- ╔══════════════════════════════════════╗
-     ║           LEADERSHIP                ║
-     ╚══════════════════════════════════════╝ -->
+A city exploration platform that combines weather information with discovery features to help users explore destinations based on current conditions.
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Raising%20Hand.png" width="28" /> &nbsp; Leadership & Community
+**Highlights**
 
-<div align="center">
-
-<table border="0" cellpadding="16" cellspacing="8" width="90%">
-<tr>
-
-<td align="center" width="33%" style="border: 1px solid #21262d; border-radius: 10px; padding: 20px;">
-
-### 🏢 COO @ Eozka
-Building operations infrastructure for a next-gen tech venture. Driving product strategy, team coordination, and go-to-market execution from the ground up.
-
-![Role](https://img.shields.io/badge/Role-COO-00C853?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
-
-</td>
-
-<td align="center" width="33%" style="border: 1px solid #21262d; border-radius: 10px; padding: 20px;">
-
-### 💻 Core Team @ TechTribe
-Organizing hackathons, workshops, and technical sessions. Mentoring fellow students and building a collaborative engineering culture.
-
-![Role](https://img.shields.io/badge/Role-Core%20Team-009688?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
-
-</td>
-
-<td align="center" width="33%" style="border: 1px solid #21262d; border-radius: 10px; padding: 20px;">
-
-### 🎯 Centre of Excellence
-Selected member driving technical excellence and innovation initiatives within the academic ecosystem.
-
-![Role](https://img.shields.io/badge/Role-Member-2962FF?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-<!-- ╔══════════════════════════════════════╗
-     ║          FEATURED PROJECTS          ║
-     ╚══════════════════════════════════════╝ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="28" /> &nbsp; Featured Projects
-
-<!-- PROJECT 1: MEALZY -->
-
-<div align="center">
-
-<table border="0" width="90%" cellpadding="0" cellspacing="0">
-<tr>
-<td>
-<table border="0" width="100%" cellpadding="16" style="border: 1px solid #21262d; border-radius: 12px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
-<tr>
-<td width="70%" valign="top">
-
-### 🍽️ Mealzy &nbsp; ![Status](https://img.shields.io/badge/Status-Production-00C853?style=flat-square)
-
-**Campus Canteen Management System**
-
-A full-stack platform that digitizes the campus canteen experience — from menu management and real-time order tracking to payment integration and analytics for canteen operators.
-
-**Key Features:**
-- 🔐 Role-based auth (Student / Staff / Admin)
-- 📱 Real-time order status tracking
-- 💳 Digital payment integration
-- 📊 Operator analytics dashboard
-- 🍔 Dynamic menu & inventory management
-
-</td>
-<td width="30%" valign="top" align="center">
+* 🌤️ Live weather integration
+* 📍 Location-based discovery
+* 🗺️ Interactive maps
+* 📅 5-day forecast
+* ⭐ Favorites & local storage
+* 🌙 Dynamic interface themes
 
 **Stack**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+`JavaScript` `React` `Tailwind CSS` `Node.js`
 
 <br>
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/obscure-01)
-[![Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/obscure-01)
+<a href="https://github.com/obscure-01/origo">
+  <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="Origo repository" />
+</a>
+
+<a href="https://origo-explore.netlify.app/">
+  <img src="https://img.shields.io/badge/LIVE%20DEMO-00C853?style=for-the-badge&logo=netlify&logoColor=white" alt="Origo live demo" />
+</a>
 
 </td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
 
-<br>
+<td width="50%" valign="top">
 
-<!-- PROJECT 2: VINCULO -->
-
-<table border="0" width="90%" cellpadding="0" cellspacing="0">
-<tr>
-<td>
-<table border="0" width="100%" cellpadding="16" style="border: 1px solid #21262d; border-radius: 12px;">
-<tr>
-<td width="70%" valign="top">
-
-### 🔗 Vinculo &nbsp; ![Status](https://img.shields.io/badge/Status-Active%20Dev-2962FF?style=flat-square)
+### 🔗 VINCULO
 
 **Social Media Engagement Verification Platform**
 
-An integrity platform that authenticates social media engagement metrics — detecting bot activity, verifying genuine interactions, and providing brands with trustworthy influencer analytics.
+A platform designed to help administrators manage social-media engagement tasks, participation and verification workflows across multiple platforms.
 
-**Key Features:**
-- 🤖 ML-powered bot detection engine
-- 📈 Authentic engagement scoring
-- 🔍 Cross-platform profile analysis
-- 🏆 Verified creator badges
-- 📊 Brand-facing analytics API
+**Highlights**
 
-</td>
-<td width="30%" valign="top" align="center">
-
-**Stack**
-
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-<br>
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/obscure-01)
-[![Demo](https://img.shields.io/badge/Live%20Demo-009688?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/obscure-01)
-
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- PROJECT 3: ORIGO -->
-
-<table border="0" width="90%" cellpadding="0" cellspacing="0">
-<tr>
-<td>
-<table border="0" width="100%" cellpadding="16" style="border: 1px solid #21262d; border-radius: 12px;">
-<tr>
-<td width="70%" valign="top">
-
-### 🌦️ Origo &nbsp; ![Status](https://img.shields.io/badge/Status-Shipped-00C853?style=flat-square)
-
-**Weather-Driven Exploration Platform**
-
-A smart travel discovery platform that curates city experiences in real-time based on live weather conditions, local events, and user preferences.
-
-**Key Features:**
-- 🌤️ Real-time weather integration (OpenWeather API)
-- 📍 Hyperlocal discovery engine
-- 🗺️ Smart itinerary suggestions
-- 🔔 Weather alerts & notifications
-- 🌙 Seamless dark/light mode
-
-</td>
-<td width="30%" valign="top" align="center">
+* 🔐 Authentication & authorization
+* 📋 Task participation
+* 🏆 Points & leaderboards
+* 🔎 Engagement verification
+* 👨‍💼 Admin verification workflow
+* 📊 Engagement monitoring
 
 **Stack**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+`Next.js` `TypeScript` `Node.js` `PostgreSQL`
 
 <br>
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/obscure-01/origo)
-[![Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/obscure-01)
+<a href="https://github.com/obscure-01">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Vinculo project" />
+</a>
 
 </td>
 </tr>
-</table>
-</td>
-</tr>
-</table>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🍽️ MEALZY
+
+**Campus Canteen Management System**
+
+A full-stack concept for digitizing campus canteen operations, including menu management, ordering and operational workflows.
+
+**Highlights**
+
+* 🔐 Role-based access
+* 🍔 Menu management
+* 📦 Order management
+* 📊 Admin workflows
+* 💳 Payment workflow
+* 📱 Student-facing experience
+
+**Stack**
+
+`Node.js` `Express.js` `React` `PostgreSQL`
 
 <br>
 
-<!-- PROJECT 4: AIRIS SECURITY -->
+<a href="https://github.com/obscure-01">
+  <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="Mealzy repository" />
+</a>
 
-<table border="0" width="90%" cellpadding="0" cellspacing="0">
-<tr>
-<td>
-<table border="0" width="100%" cellpadding="16" style="border: 1px solid #21262d; border-radius: 12px; background: linear-gradient(135deg, #0d1117 0%, #1a0a2e 100%);">
-<tr>
-<td width="70%" valign="top">
+</td>
 
-### 🔒 AIris Security &nbsp; ![Status](https://img.shields.io/badge/Status-Active%20Dev-FF6D00?style=flat-square)
+<td width="50%" valign="top">
+
+### 🔒 AIRIS SECURITY
 
 **AI-Powered Vulnerability Scanner**
 
-A production-grade security tool that combines Nmap, Nikto, and DirSearch in a parallel scanning engine, scored by a hybrid ML model (Random Forest + NLP), generating detailed PDF remediation reports.
+A security-focused project combining automated reconnaissance tools with machine-learning-based analysis to help identify and prioritize vulnerabilities.
 
-**Key Features:**
-- ⚡ Parallel multi-tool scanning (Nmap + Nikto + DirSearch)
-- 🧠 Hybrid ML risk scoring (Random Forest + NLP)
-- 📄 Auto-generated PDF remediation reports
-- 🎯 CVE correlation & severity ranking
-- 🔧 CLI & API interface
+**Highlights**
 
-</td>
-<td width="30%" valign="top" align="center">
+* ⚡ Automated security scanning
+* 🔍 Multi-tool analysis
+* 🧠 ML-based risk analysis
+* 📄 Report generation
+* 🎯 Vulnerability prioritization
+* 🔌 API-oriented architecture
 
 **Stack**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/ML-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-spaCy-09A3D5?style=flat-square)
-![REST API](https://img.shields.io/badge/REST-API-009688?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+`Python` `Machine Learning` `NLP` `REST API` `PostgreSQL`
 
 <br>
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kush05Bhardwaj/AIris-Security_AI-Powered-Vulnerability-Scanner)
-[![Demo](https://img.shields.io/badge/Live%20Demo-FF6D00?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Kush05Bhardwaj/AIris-Security_AI-Powered-Vulnerability-Scanner)
+<a href="https://github.com/Kush05Bhardwaj/AIris-Security_AI-Powered-Vulnerability-Scanner">
+  <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="AIris Security repository" />
+</a>
 
 </td>
 </tr>
 </table>
-</td>
-</tr>
-</table>
+
+---
+
+## 🎬 What I Build
+
+<div align="center">
+
+<!--
+     Optional GIF:
+     Upload a short developer/coding GIF to:
+     assets/coding.gif
+
+     Then replace the image below with:
+     <img src="./assets/coding.gif" width="85%" alt="Coding animation" />
+-->
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="85%" alt="Coding animation" />
+
+<br><br>
+
+<sub>
+From frontend interfaces to backend APIs, databases and AI-powered systems —
+I like understanding the entire engineering pipeline.
+</sub>
 
 </div>
 
 ---
 
-<!-- ╔══════════════════════════════════════╗
-     ║         PROJECT TIMELINE            ║
-     ╚══════════════════════════════════════╝ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Spiral%20Calendar.png" width="28" /> &nbsp; Project Timeline
+## 📊 GitHub Statistics
 
 <div align="center">
 
-```
-2024 ─────────────────────────────────────────────── 2026 ──►
-
-  Q3 2024          Q4 2024          Q1 2025          Q2–Q3 2025        2026
-     │                │                │                  │               │
- ╔═══╧═══╗        ╔═══╧═══╗        ╔═══╧════╗        ╔════╧════╗    ╔════╧════╗
- ║ Mealzy ║       ║ Origo  ║       ║  AIris  ║        ║ Vinculo ║    ║  Next   ║
- ║  v1.0  ║       ║ v1.0   ║       ║Security ║        ║  v1.0   ║    ║ Chapter ║
- ╚═══════╝        ╚═══════╝        ╚════════╝         ╚═════════╝    ╚═════════╝
-  Campus            Weather          AI Vuln           Social           Scale
-  Canteen           Explorer         Scanner           Verify           &  AI
-```
-
-</div>
-
----
-
-<!-- ╔══════════════════════════════════════╗
-     ║         GITHUB STATISTICS           ║
-     ╚══════════════════════════════════════╝ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp; GitHub Statistics
-
-<div align="center">
-
-<!-- Row 1: Stats + Languages side by side -->
 <a href="https://github.com/obscure-01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=obscure-01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C853&icon_color=009688&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=obscure-01&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=0D1117&title_color=00C853&icon_color=009688&text_color=C9D1D9" alt="Aman's GitHub statistics" />
 </a>
+
 <a href="https://github.com/obscure-01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obscure-01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C853&text_color=c9d1d9&langs_count=8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obscure-01&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00C853&text_color=C9D1D9" alt="Most used languages" />
 </a>
 
-<br/><br/>
+<br><br>
 
-<!-- Row 2: Streak — full width -->
-<a href="https://git.io/streak-stats">
-  <img width="68%" src="https://streak-stats.demolab.com?user=obscure-01&theme=tokyonight&hide_border=true&background=0D1117&ring=00C853&fire=00C853&currStreakLabel=009688&sideLabels=009688&stroke=2962FF&dates=8b949e&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-</a>
+<img width="70%" src="https://streak-stats.demolab.com?user=obscure-01&theme=tokyonight&hide_border=true&background=0D1117&ring=00C853&fire=00C853&currStreakLabel=009688&sideLabels=009688&stroke=2962FF&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
 
-<br/><br/>
+<br><br>
 
-<!-- Row 3: Activity Graph — full width -->
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=obscure-01&bg_color=0d1117&color=00C853&line=009688&point=00C853&area_color=009688&area=true&hide_border=true&title_color=00C853" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=obscure-01&bg_color=0D1117&color=00C853&line=009688&point=FFFFFF&area_color=009688&area=true&hide_border=true&title_color=00C853" alt="GitHub activity graph" />
 
 </div>
 
 ---
 
-<!-- ╔══════════════════════════════════════╗
-     ║          GITHUB TROPHY              ║
-     ╚══════════════════════════════════════╝ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28" /> &nbsp; GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=obscure-01&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=obscure-01&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=6" width="95%" alt="GitHub trophies" />
 
 </div>
 
 ---
 
-<!-- ╔══════════════════════════════════════╗
-     ║       CONTRIBUTION SNAKE            ║
-     ╚══════════════════════════════════════╝ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="28" /> &nbsp; Contribution Snake
+## 🐍 Contribution Activity
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obscure-01/obscure-01/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obscure-01/obscure-01/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obscure-01/obscure-01/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obscure-01/obscure-01/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obscure-01/obscure-01/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/obscure-01/obscure-01/output/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub contribution snake animation">
 </picture>
 
 </div>
 
 ---
 
-<!-- ╔══════════════════════════════════════╗
-     ║      VISITOR COUNTER & VIEWS        ║
-     ╚══════════════════════════════════════╝ -->
+## 👥 Leadership & Community
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=obscure-01&color=00C853&style=for-the-badge&label=PROFILE+VIEWS)
-&nbsp;&nbsp;
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=obscure-01.obscure-01&color=009688&style=for-the-badge)
-
-</div>
-
----
-
-<!-- ╔══════════════════════════════════════╗
-     ║         DEVELOPER QUOTE             ║
-     ╚══════════════════════════════════════╝ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Speech%20Balloon.png" width="28" /> &nbsp; Dev Quote
-
-<div align="center">
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-</div>
-
----
-
-<!-- ╔══════════════════════════════════════╗
-     ║          OPEN SOURCE                ║
-     ╚══════════════════════════════════════╝ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="28" /> &nbsp; Open Source
-
-<div align="center">
-
-I believe in the power of open-source software. Every contribution — no matter how small — moves the ecosystem forward.
-
-<table border="0" width="80%" cellpadding="16">
+<table>
 <tr>
-<td align="center">
-<strong>🛠 Contributor</strong><br>
-<sub>Actively contributing to projects that align with my backend & AI interests.</sub>
+
+<td width="33%" align="center" valign="top">
+
+### 🏢 Eozka
+
+**COO**
+
+Working across operations, coordination and product execution within a technology startup environment.
+
 </td>
-<td align="center">
-<strong>📦 Maintainer</strong><br>
-<sub>All personal projects are public, documented, and open for PRs.</sub>
+
+<td width="33%" align="center" valign="top">
+
+### 💻 TechTribe
+
+**Core Team**
+
+Contributing to student-tech initiatives, technical events, workshops and community activities.
+
 </td>
-<td align="center">
-<strong>🌱 Mentor</strong><br>
-<sub>Supporting junior devs through TechTribe workshops and code reviews.</sub>
+
+<td width="33%" align="center" valign="top">
+
+### 🎯 Centre of Excellence
+
+**Member**
+
+Participating in technical and innovation-oriented initiatives within the academic ecosystem.
+
 </td>
+
 </tr>
 </table>
 
-> *"Open source is not just about code — it's about trust, transparency, and community."*
+---
+
+## 🧠 Engineering Principles
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 🏗️
+
+**Build for Scale**
+
+Design systems with maintainability and future growth in mind.
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚡
+
+**Ship & Iterate**
+
+Build useful software, learn from feedback and improve continuously.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔍
+
+**Understand First**
+
+Solve the underlying problem before choosing the technology.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤝
+
+**Collaborate**
+
+Good engineering includes communication, documentation and teamwork.
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-<!-- ╔══════════════════════════════════════╗
-     ║        LEARNING JOURNEY             ║
-     ╚══════════════════════════════════════╝ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="28" /> &nbsp; Learning Journey
+## 📚 Learning Journey
 
 <div align="center">
 
+```text
+FOUNDATIONS                    BUILDING                     FRONTIER
+──────────────────────────────────────────────────────────────────────────►
+
+C++ • Java • Python     →     JavaScript / TypeScript    →    System Design
+        │                         │                           │
+        ▼                         ▼                           ▼
+   DSA & Algorithms         React / Next.js             Distributed Systems
+        │                         │                           │
+        ▼                         ▼                           ▼
+ Web Fundamentals          Node.js / PostgreSQL          AI Applications
+        │                         │                           │
+        └─────────────────────────┴───────────────────────────┘
+                              │
+                              ▼
+                       Production Thinking
 ```
-FOUNDATIONS              DEPTH                     FRONTIER
-──────────────────────────────────────────────────────────────────►
-
-C++ / Java / Python  →  Node.js + PostgreSQL  →  System Design + AI
-     ↓                         ↓                        ↓
-  DSA & Algorithms       Full Stack Projects       ML Integration
-     ↓                         ↓                        ↓
-  Web Fundamentals     Backend Architecture       Production Systems
-```
 
 </div>
 
 ---
 
-<!-- ╔══════════════════════════════════════╗
-     ║       ROADMAP & GOALS 2026          ║
-     ╚══════════════════════════════════════╝ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/World%20Map.png" width="28" /> &nbsp; Roadmap & Goals 2026
+## 🎯 Current Learning
 
 <div align="center">
 
-<table border="0" width="90%" cellpadding="12">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+
+</div>
+
+---
+
+## 📈 2026 Focus
+
+<div align="center">
+
+<table>
 <tr>
-<th align="left">Goal</th>
-<th align="center">Category</th>
-<th align="center">Status</th>
+<th>Area</th>
+<th>Focus</th>
 </tr>
+
 <tr>
-<td>Ship Vinculo to production with 100+ users</td>
-<td align="center"><img src="https://img.shields.io/badge/Product-00C853?style=flat-square" /></td>
-<td align="center">🔄 In Progress</td>
+<td>🚀 Product Engineering</td>
+<td>Build and ship scalable real-world applications</td>
 </tr>
+
 <tr>
-<td>Contribute to 3+ major open-source repositories</td>
-<td align="center"><img src="https://img.shields.io/badge/Open%20Source-009688?style=flat-square" /></td>
-<td align="center">🎯 Planned</td>
+<td>⚙️ Backend</td>
+<td>Deepen API design, databases and distributed systems</td>
 </tr>
+
 <tr>
-<td>Deep dive into Distributed Systems & Kafka</td>
-<td align="center"><img src="https://img.shields.io/badge/Learning-2962FF?style=flat-square" /></td>
-<td align="center">📚 Studying</td>
+<td>🧠 AI</td>
+<td>Integrate intelligent capabilities into useful products</td>
 </tr>
+
 <tr>
-<td>Land a top-tier internship at a product company</td>
-<td align="center"><img src="https://img.shields.io/badge/Career-FF6D00?style=flat-square" /></td>
-<td align="center">🎯 Targeting</td>
+<td>☁️ Cloud</td>
+<td>Strengthen deployment, infrastructure and cloud fundamentals</td>
 </tr>
+
 <tr>
-<td>Build and launch an AI-native SaaS product</td>
-<td align="center"><img src="https://img.shields.io/badge/AI%20%2F%20SaaS-00C853?style=flat-square" /></td>
-<td align="center">💡 Ideating</td>
+<td>🧩 DSA</td>
+<td>Improve algorithmic problem solving and competitive programming</td>
 </tr>
-<tr>
-<td>Reach 500+ LeetCode problems solved</td>
-<td align="center"><img src="https://img.shields.io/badge/DSA-009688?style=flat-square" /></td>
-<td align="center">⚡ Active</td>
-</tr>
+
 </table>
 
 </div>
 
 ---
 
-<!-- ╔══════════════════════════════════════╗
-     ║       CURRENTLY LEARNING            ║
-     ╚══════════════════════════════════════╝ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="28" /> &nbsp; Currently Learning
+## 💬 Developer Quote
 
 <div align="center">
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Developer quote" />
 
 </div>
 
 ---
 
-<!-- ╔══════════════════════════════════════╗
-     ║            FUN FACTS                ║
-     ╚══════════════════════════════════════╝ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Game%20Die.png" width="28" /> &nbsp; Fun Facts
+## 🤝 Open to Opportunities
 
 <div align="center">
 
-<table border="0" width="85%" cellpadding="12">
-<tr>
-<td>⚡ I've debugged a production issue at 3 AM and genuinely enjoyed it</td>
-</tr>
-<tr>
-<td>🎧 Lo-fi + dark mode = peak productivity</td>
-</tr>
-<tr>
-<td>🧠 I think in system diagrams before writing a single line of code</td>
-</tr>
-<tr>
-<td>☕ Coffee consumption is directly proportional to commit frequency</td>
-</tr>
-<tr>
-<td>🏆 Started competitive programming, got distracted by building actual products</td>
-</tr>
-<tr>
-<td>🌊 Iceberg theory of software: what users see is 10%, what engineers build is 90%</td>
-</tr>
-</table>
+I'm interested in opportunities where I can **build, learn, collaborate and contribute to meaningful software**.
+
+<br>
+
+<img src="https://img.shields.io/badge/Internships-00C853?style=for-the-badge" alt="Internships" />
+<img src="https://img.shields.io/badge/Software%20Projects-009688?style=for-the-badge" alt="Software projects" />
+<img src="https://img.shields.io/badge/Open%20Source-6C63FF?style=for-the-badge" alt="Open source" />
+<img src="https://img.shields.io/badge/Collaborations-2962FF?style=for-the-badge" alt="Collaborations" />
 
 </div>
 
 ---
 
-<!-- ╔══════════════════════════════════════╗
-     ║        CONNECT WITH ME              ║
-     ╚══════════════════════════════════════╝ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="28" /> &nbsp; Connect With Me
+## 📫 Connect With Me
 
 <div align="center">
 
-<table border="0" cellpadding="10">
-<tr>
-<td align="center">
-<a href="https://linkedin.com/in/amanchapadiya">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/amanchapadiya">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-</td>
-<td align="center">
+
 <a href="https://github.com/obscure-01">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-</td>
-<td align="center">
+
 <a href="https://leetcode.com/u/obscure_/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
 </a>
-</td>
-<td align="center">
+
 <a href="mailto:amanchapadiya@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-</td>
-</tr>
-</table>
 
-<br>
+<br><br>
 
-**Open to:** Internships · Collaborations · Open Source · Startup Projects
-
-> *"The best engineers I know are the ones still curious enough to ask why."*
+**Let's build something meaningful. 🚀**
 
 </div>
 
 ---
 
-<!-- ╔══════════════════════════════════════╗
-     ║              FOOTER                 ║
-     ╚══════════════════════════════════════╝ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontSize=14&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C853,100:00BFA6&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer" />
 
 <br>
 
-*Built with purpose, shipped with pride.*
+<sub><b>Built with purpose. Shipped with pride.</b></sub>
 
-![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20in%20India-00C853?style=flat-square)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-009688?style=flat-square)
+<br><br>
+
+<img src="https://img.shields.io/badge/Made%20with-❤️%20in%20India-00C853?style=flat-square" alt="Made with love in India" />
 
 </div>
