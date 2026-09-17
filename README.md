@@ -36,49 +36,23 @@
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="65%" valign="top">
-
 Hi, I'm **Aman Chapadiya** 👋
 
 I'm a **Software Developer** and **B.Tech Computer Science & Engineering student** at **K.R. Mangalam University, Gurugram**.
 
-My primary interests are **full-stack development, backend engineering, cloud computing and practical software development**.
+My primary interests are **full-stack development, backend engineering, cloud computing, and practical software development**.
 
-I enjoy building applications end-to-end — from responsive interfaces and API integrations to databases, deployment and real-world user workflows.
+I enjoy building applications end-to-end — from responsive interfaces and API integrations to databases, deployment, and real-world user workflows.
 
-### What I work on
+### What I Work On
 
 - 🌐 Full-Stack Web Development
 - ⚙️ Backend Development & REST APIs
 - ☁️ Cloud Computing
 - 🗄️ PostgreSQL & MySQL
 - 🧩 Data Structures & Algorithms
-- 🧠 AI-integrated applications
+- 🧠 AI-integrated Applications
 - 🔧 Software Development & Problem Solving
-
-</td>
-
-<td width="35%" align="center" valign="middle">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="160" alt="Developer" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/B.Tech-CSE-6C63FF?style=for-the-badge" alt="B.Tech CSE" />
-
-<br>
-
-<img src="https://img.shields.io/badge/CGPA-8.96-00C853?style=for-the-badge" alt="CGPA 8.96" />
-
-<br>
-
-<img src="https://img.shields.io/badge/2024--2028-Student-009688?style=for-the-badge" alt="2024 to 2028" />
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -93,7 +67,7 @@ I enjoy building applications end-to-end — from responsive interfaces and API 
 
 **eOzka**
 
-Working across **operations, coordination and execution** within a technology startup environment, contributing to organizational and product initiatives.
+Technology startup leadership with a focus on **operations, coordination, and execution**.
 
 </td>
 
@@ -104,9 +78,9 @@ Working across **operations, coordination and execution** within a technology st
 **VaultOfCodes · Jun 2026 – Jul 2026**
 
 - Developed and enhanced responsive web applications.
-- Worked with modern frontend and backend technologies.
-- Implemented reusable components and API integrations.
-- Contributed to debugging, testing and feature development.
+- Worked across frontend and backend development.
+- Built reusable components and integrated APIs.
+- Contributed to debugging, testing, and feature development.
 - Followed structured software development practices.
 
 </td>
@@ -137,7 +111,7 @@ Working across **operations, coordination and execution** within a technology st
 **K.R. Mangalam University · Jan 2026 – Present**
 
 - Coordinate cloud-focused technical initiatives.
-- Facilitate peer-learning and student engagement activities.
+- Facilitate peer learning and student engagement.
 - Coordinate technical sessions and organizational activities.
 - Support cloud learning initiatives.
 
@@ -201,172 +175,7 @@ Combining software development with technical community leadership and team coor
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql&perline=2" alt="PostgreSQL MySQL" />
 
-<br><🚀 Featured Projects
-<table> <tr> <td width="50%" valign="top">
-🔒 AIris Security
-
-AI-Powered Vulnerability Scanner
-
-A security-focused application with a modular React/Next.js frontend for presenting vulnerability reports and ML-based risk insights.
-
-Highlights
-🧩 5+ reusable UI components
-🔗 4 interconnected modules
-🛣️ Application routing
-✅ Input validation
-📱 Responsive design
-🔌 REST API integration
-📊 Interactive dashboards
-🧠 ML-based risk insights
-Tech Stack
-
-React.js Next.js REST APIs
-
-<br> <a href="https://github.com/Kush05Bhardwaj/AIris-Security_AI-Powered-Vulnerability-Scanner"> <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="AIris Security Repository" /> </a> </td> <td width="50%" valign="top">
-🌦️ Origo
-
-Weather-Aware City Exploration Platform
-
-A web platform combining real-time weather, place discovery and city information into a unified exploration experience.
-
-Highlights
-🌤️ Real-time weather data
-📍 Place discovery
-🗺️ Interactive maps
-🔎 City search
-⭐ Favorites
-💾 Search persistence
-🎨 Dynamic themes
-🌦️ Weather-based recommendations
-🔗 3 API integrations
-📱 Responsive interface
-Tech Stack
-
-JavaScript HTML5 CSS3 OpenWeatherMap OpenStreetMap Leaflet Netlify
-
-<br> <a href="https://github.com/obscure-01/origo"> <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="Origo Repository" /> </a> <a href="https://origo-explore.netlify.app/"> <img src="https://img.shields.io/badge/LIVE%20DEMO-00C853?style=for-the-badge&logo=netlify&logoColor=white" alt="Origo Live Demo" /> </a> </td> </tr> </table>
-🎬 What I Build
-<div align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="82%" alt="Coding animation" />
-
 <br><br>
-
-<b>Learn → Build → Test → Improve → Ship</b>
-
-<br> <sub> I enjoy turning ideas into functional software and continuously improving the engineering behind it. </sub> </div>
-📊 GitHub Analytics
-<div align="center">
-GitHub Statistics
-<img src="./profile/stats.svg" width="48%" alt="Aman's GitHub Statistics" /> <img src="./profile/top-langs.svg" width="40%" alt="Aman's Most Used Languages" />
-
-<br><br>
-
-Contribution Streak
-<img src="https://streak-stats.demolab.com?user=obscure-01&theme=tokyonight&hide_border=true&background=0D1117&ring=00C853&fire=00C853&currStreakLabel=009688&sideLabels=009688&stroke=2962FF&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" width="72%" alt="GitHub Contribution Streak" /> </div>
-🐍 Contribution Graph
-<div align="center"> <picture>
-
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obscure-01/obscure-01/output/github-contribution-grid-snake-dark.svg" />
-
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obscure-01/obscure-01/output/github-contribution-grid-snake.svg" />
-
-<img src="https://raw.githubusercontent.com/obscure-01/obscure-01/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub Contribution Snake" />
-
-</picture> </div>
-☁️ Cloud Computing
-<div align="center"> <img src="https://img.shields.io/badge/Microsoft%20Azure-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure AZ-900" />
-
-<br><br>
-
-I'm interested in building and deploying applications while strengthening my understanding of cloud infrastructure, deployment and scalable software systems.
-
-</div>
-📚 Currently Learning
-<div align="center"> <img src="https://img.shields.io/badge/Backend%20Engineering-009688?style=for-the-badge" alt="Backend Engineering" /> <img src="https://img.shields.io/badge/Cloud%20Computing-6C63FF?style=for-the-badge" alt="Cloud Computing" /> <img src="https://img.shields.io/badge/System%20Design-2962FF?style=for-the-badge" alt="System Design" /> <img src="https://img.shields.io/badge/AI%20Applications-00C853?style=for-the-badge" alt="AI Applications" /> <img src="https://img.shields.io/badge/DSA-FF6D00?style=for-the-badge" alt="Data Structures and Algorithms" /> </div>
-📜 Certifications
-<div align="center"> <table> <tr> <th>Certification</th> <th>Platform</th> </tr> <tr> <td><b>Microsoft Azure Fundamentals — AZ-900</b></td> <td>Microsoft</td> </tr> <tr> <td><b>Introduction to AI</b></td> <td>Coursera</td> </tr> <tr> <td><b>Start Writing Prompts Like a Pro</b></td> <td>Coursera</td> </tr> </table> </div>
-🧠 Engineering Mindset
-<div align="center"> <table> <tr> <td align="center" width="25%">
-🔍
-
-Understand
-
-Understand the problem before choosing the technology.
-
-</td> <td align="center" width="25%">
-🏗️
-
-Build
-
-Turn ideas into clean and functional software.
-
-</td> <td align="center" width="25%">
-⚡
-
-Improve
-
-Test, debug, learn and iterate continuously.
-
-</td> <td align="center" width="25%">
-🚀
-
-Ship
-
-Build software that can actually be used.
-
-</td> </tr> </table> </div>
-📈 Development Journey
-<div align="center">
-                    COMPUTER SCIENCE
-                           │
-                           ▼
-                Programming Fundamentals
-                 JavaScript • Java • Python
-                           │
-                           ▼
-                    Web Development
-              HTML • CSS • React • Next.js
-                           │
-                           ▼
-                  Full-Stack Development
-                   Node.js • REST APIs
-                           │
-                           ▼
-                       Databases
-                  PostgreSQL • MySQL
-                           │
-                           ▼
-                   Cloud Computing
-                     Microsoft Azure
-                           │
-                           ▼
-                    AI Applications
-                           │
-                           ▼
-                Scalable Software Systems
-</div>
-🎯 2026 Focus
-<table> <tr> <th>Area</th> <th>Focus</th> </tr> <tr> <td>🌐 Full-Stack Development</td> <td>Build stronger end-to-end applications</td> </tr> <tr> <td>⚙️ Backend Engineering</td> <td>Improve API architecture and database-driven systems</td> </tr> <tr> <td>☁️ Cloud Computing</td> <td>Strengthen cloud and deployment fundamentals</td> </tr> <tr> <td>🧩 DSA</td> <td>Improve algorithmic problem solving</td> </tr> <tr> <td>🧠 AI Applications</td> <td>Explore practical AI integrations in software</td> </tr> </table>
-🤝 Let's Connect
-<div align="center">
-
-I'm always open to learning, collaborating and building meaningful software.
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/amanchapadiya"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/obscure-01"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://leetcode.com/u/obscure_/"> <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /> </a> <a href="mailto:chapadiya.aman@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a>
-
-<br><br>
-
-<b>Software Developer · Full-Stack Development · Cloud Computing</b>
-
-</div>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C853,100:00BFA6&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer" /> <br>
-
-<sub><b>Build. Learn. Improve. Ship.</b></sub>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20in%20India-00C853?style=flat-square" alt="Made with love in India" /> </div> ```br>
 
 ### Cloud & Tools
 
@@ -376,10 +185,294 @@ I'm always open to learning, collaborating and building meaningful software.
 
 ### Core Concepts
 
-```text
-Data Structures & Algorithms
-Object-Oriented Programming
-REST APIs
-Version Control with Git
-Responsive Web Design
-Problem Solving
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- REST APIs
+- Version Control with Git
+- Responsive Web Design
+- Problem Solving
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🔒 AIris Security
+
+**AI-Powered Vulnerability Scanner**
+
+A security-focused application with a modular React/Next.js frontend for presenting vulnerability reports and ML-based risk insights.
+
+#### Highlights
+
+- 🧩 5+ reusable UI components
+- 🔗 4 interconnected modules
+- 🛣️ Application routing
+- ✅ Input validation
+- 📱 Responsive design
+- 🔌 REST API integration
+- 📊 Interactive dashboards
+- 🧠 ML-based risk insights
+
+#### Tech Stack
+
+`React.js` `Next.js` `REST APIs`
+
+<br>
+
+<a href="https://github.com/Kush05Bhardwaj/AIris-Security_AI-Powered-Vulnerability-Scanner">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="AIris Security Repository" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌦️ Origo
+
+**Weather-Aware City Exploration Platform**
+
+A web platform combining real-time weather, place discovery, and city information into a unified exploration experience.
+
+#### Highlights
+
+- 🌤️ Real-time weather data
+- 📍 Place discovery
+- 🗺️ Interactive maps
+- 🔎 City search
+- ⭐ Favorites
+- 💾 Search persistence
+- 🎨 Dynamic themes
+- 🌦️ Weather-based recommendations
+- 🔗 3 API integrations
+- 📱 Responsive interface
+
+#### Tech Stack
+
+`JavaScript` `HTML5` `CSS3` `OpenWeatherMap` `OpenStreetMap` `Leaflet` `Netlify`
+
+<br>
+
+<a href="https://github.com/obscure-01/origo">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="Origo Repository" />
+</a>
+
+<a href="https://origo-explore.netlify.app/">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-00C853?style=for-the-badge&logo=netlify&logoColor=white" alt="Origo Live Demo" />
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="82%" alt="Coding animation" />
+
+<br><br>
+
+<b>Learn → Build → Test → Improve → Ship</b>
+
+<br>
+
+<sub>
+I enjoy turning ideas into functional software and continuously improving the engineering behind it.
+</sub>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="./profile/stats.svg" width="48%" alt="Aman's GitHub Statistics" />
+<img src="./profile/top-langs.svg" width="42%" alt="Aman's Most Used Languages" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=obscure-01&theme=tokyonight&hide_border=true&background=0D1117&ring=00C853&fire=00C853&currStreakLabel=009688&sideLabels=009688&stroke=2962FF&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" width="72%" alt="GitHub Contribution Streak" />
+
+</div>
+
+---
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obscure-01/obscure-01/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obscure-01/obscure-01/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/obscure-01/obscure-01/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub Contribution Snake" />
+</picture>
+
+</div>
+
+---
+
+## ☁️ Cloud Computing
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Microsoft%20Azure-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure AZ-900" />
+
+<br><br>
+
+I'm interested in building and deploying applications while strengthening my understanding of **cloud infrastructure, deployment, and scalable software systems**.
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Backend%20Engineering-009688?style=for-the-badge" alt="Backend Engineering" />
+
+<img src="https://img.shields.io/badge/Cloud%20Computing-6C63FF?style=for-the-badge" alt="Cloud Computing" />
+
+<img src="https://img.shields.io/badge/System%20Design-2962FF?style=for-the-badge" alt="System Design" />
+
+<img src="https://img.shields.io/badge/AI%20Applications-00C853?style=for-the-badge" alt="AI Applications" />
+
+<img src="https://img.shields.io/badge/DSA-FF6D00?style=for-the-badge" alt="Data Structures and Algorithms" />
+
+</div>
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+| Certification | Platform |
+|---|---|
+| **Microsoft Azure Fundamentals — AZ-900** | Microsoft |
+| **Introduction to AI** | Coursera |
+| **Start Writing Prompts Like a Pro** | Coursera |
+
+</div>
+
+---
+
+## 🧠 Engineering Mindset
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 🔍 Understand
+
+Understand the problem before choosing the technology.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🏗️ Build
+
+Turn ideas into clean and functional software.
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚡ Improve
+
+Test, debug, learn, and iterate continuously.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀 Ship
+
+Build software that can actually be used.
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📈 Development Journey
+
+<div align="center">
+
+``'
+---
+
+## 🎯 2026 Focus
+
+| Area | Focus |
+|---|---|
+| 🌐 Full-Stack Development | Build stronger end-to-end applications |
+| ⚙️ Backend Engineering | Improve API architecture and database-driven systems |
+| ☁️ Cloud Computing | Strengthen cloud and deployment fundamentals |
+| 🧩 DSA | Improve algorithmic problem solving |
+| 🧠 AI Applications | Explore practical AI integrations in software |
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always open to **learning, collaborating, and building meaningful software**.
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/amanchapadiya">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://github.com/obscure-01">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="https://leetcode.com/u/obscure_/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+
+<a href="mailto:chapadiya.aman@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br><br>
+
+<b>Software Developer · Full-Stack Development · Cloud Computing</b>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C853,100:00BFA6&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer" />
+
+<br>
+
+<sub><b>Build. Learn. Improve. Ship.</b></sub>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20in%20India-00C853?style=flat-square" alt="Made with love in India" />
+
+</div>
