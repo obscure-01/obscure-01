@@ -185,12 +185,16 @@ Combining software development with technical community leadership and team coor
 
 ### Core Concepts
 
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- REST APIs
-- Version Control with Git
-- Responsive Web Design
-- Problem Solving
+<div align="center">
+
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-6C63FF?style=for-the-badge" alt="Data Structures and Algorithms" />
+<img src="https://img.shields.io/badge/Object--Oriented%20Programming-00C853?style=for-the-badge" alt="Object Oriented Programming" />
+<img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge" alt="REST APIs" />
+<img src="https://img.shields.io/badge/Git%20%26%20Version%20Control-181717?style=for-the-badge&logo=git&logoColor=white" alt="Git and Version Control" />
+<img src="https://img.shields.io/badge/Responsive%20Web%20Design-2962FF?style=for-the-badge" alt="Responsive Web Design" />
+<img src="https://img.shields.io/badge/Problem%20Solving-FF6D00?style=for-the-badge" alt="Problem Solving" />
+
+</div>
 
 ---
 
@@ -304,16 +308,15 @@ I enjoy turning ideas into functional software and continuously improving the en
 </div>
 
 ---
----
 
 ## 🐍 Contribution Graph
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obscure-01/obscure-01/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obscure-01/obscure-01/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/obscure-01/obscure-01/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub Contribution Snake" />
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obscure-01/obscure-01/output/github-contribution-grid-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obscure-01/obscure-01/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/obscure-01/obscure-01/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub Contribution Snake" />
 </picture>
 
 </div>
@@ -328,7 +331,7 @@ I enjoy turning ideas into functional software and continuously improving the en
 
 <br><br>
 
-I'm interested in building and deploying applications while strengthening my understanding of **cloud infrastructure, deployment, and scalable software systems**.
+I'm interested in building and deploying applications while strengthening my understanding of <b>cloud infrastructure, deployment, and scalable software systems</b>.
 
 </div>
 
@@ -356,11 +359,28 @@ I'm interested in building and deploying applications while strengthening my und
 
 <div align="center">
 
-| Certification | Platform |
-|---|---|
-| **Microsoft Azure Fundamentals — AZ-900** | Microsoft |
-| **Introduction to AI** | Coursera |
-| **Start Writing Prompts Like a Pro** | Coursera |
+<table>
+<tr>
+<th>Certification</th>
+<th>Platform</th>
+</tr>
+
+<tr>
+<td><b>Microsoft Azure Fundamentals — AZ-900</b></td>
+<td>Microsoft</td>
+</tr>
+
+<tr>
+<td><b>Introduction to AI</b></td>
+<td>Coursera</td>
+</tr>
+
+<tr>
+<td><b>Start Writing Prompts Like a Pro</b></td>
+<td>Coursera</td>
+</tr>
+
+</table>
 
 </div>
 
@@ -375,7 +395,7 @@ I'm interested in building and deploying applications while strengthening my und
 
 <td align="center" width="25%">
 
-### 🔍 Understand
+<h3>🔍 Understand</h3>
 
 Understand the problem before choosing the technology.
 
@@ -383,7 +403,7 @@ Understand the problem before choosing the technology.
 
 <td align="center" width="25%">
 
-### 🏗️ Build
+<h3>🏗️ Build</h3>
 
 Turn ideas into clean and functional software.
 
@@ -391,7 +411,7 @@ Turn ideas into clean and functional software.
 
 <td align="center" width="25%">
 
-### ⚡ Improve
+<h3>⚡ Improve</h3>
 
 Test, debug, learn, and iterate continuously.
 
@@ -399,7 +419,7 @@ Test, debug, learn, and iterate continuously.
 
 <td align="center" width="25%">
 
-### 🚀 Ship
+<h3>🚀 Ship</h3>
 
 Build software that can actually be used.
 
@@ -416,18 +436,74 @@ Build software that can actually be used.
 
 <div align="center">
 
-``'
+<pre>
+                         COMPUTER SCIENCE
+                                │
+                                ▼
+                    Programming Fundamentals
+                       JavaScript • Java • Python
+                                │
+                                ▼
+                       Web Development
+                    HTML • CSS • React • Next.js
+                                │
+                                ▼
+                     Full-Stack Development
+                         Node.js • REST APIs
+                                │
+                                ▼
+                           Databases
+                      PostgreSQL • MySQL
+                                │
+                                ▼
+                       Cloud Computing
+                         Microsoft Azure
+                                │
+                                ▼
+                        AI Applications
+                                │
+                                ▼
+                   Scalable Software Systems
+</pre>
+
+</div>
+
 ---
 
 ## 🎯 2026 Focus
 
-| Area | Focus |
-|---|---|
-| 🌐 Full-Stack Development | Build stronger end-to-end applications |
-| ⚙️ Backend Engineering | Improve API architecture and database-driven systems |
-| ☁️ Cloud Computing | Strengthen cloud and deployment fundamentals |
-| 🧩 DSA | Improve algorithmic problem solving |
-| 🧠 AI Applications | Explore practical AI integrations in software |
+<table>
+<tr>
+<th>Area</th>
+<th>Focus</th>
+</tr>
+
+<tr>
+<td>🌐 Full-Stack Development</td>
+<td>Build stronger end-to-end applications</td>
+</tr>
+
+<tr>
+<td>⚙️ Backend Engineering</td>
+<td>Improve API architecture and database-driven systems</td>
+</tr>
+
+<tr>
+<td>☁️ Cloud Computing</td>
+<td>Strengthen cloud and deployment fundamentals</td>
+</tr>
+
+<tr>
+<td>🧩 DSA</td>
+<td>Improve algorithmic problem solving</td>
+</tr>
+
+<tr>
+<td>🧠 AI Applications</td>
+<td>Explore practical AI integrations in software</td>
+</tr>
+
+</table>
 
 ---
 
@@ -435,7 +511,7 @@ Build software that can actually be used.
 
 <div align="center">
 
-I'm always open to **learning, collaborating, and building meaningful software**.
+I'm always open to <b>learning, collaborating, and building meaningful software</b>.
 
 <br><br>
 
