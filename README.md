@@ -296,61 +296,88 @@ I enjoy turning ideas into functional software and continuously improving the en
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=obscure-01&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=00C853&cache_seconds=86400"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=obscure-01&show_icons=true&include_all_commits=true&hide_border=true&bg_color=FFFFFF&title_color=24292F&text_color=57606A&icon_color=00A63C&cache_seconds=86400"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=obscure-01&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=00C853&cache_seconds=86400"
-    width="48%"
-    alt="Aman's GitHub Statistics"
-  />
-</picture>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<p align="center">
+  <strong>GitHub Overview</strong><br>
+  <sub>Development activity & repository metrics</sub>
+</p>
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=obscure-01&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=00C853&cache_seconds=86400"
+    srcset="https://github-readme-stats.vercel.app/api?username=obscure-01&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true&bg_color=00000000&title_color=F0F6FC&text_color=8B949E&icon_color=00C853&cache_seconds=86400"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=obscure-01&layout=compact&langs_count=6&hide_border=true&bg_color=FFFFFF&title_color=24292F&text_color=57606A&icon_color=00A63C&cache_seconds=86400"
+    srcset="https://github-readme-stats.vercel.app/api?username=obscure-01&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true&bg_color=00000000&title_color=24292F&text_color=57606A&icon_color=00A63C&cache_seconds=86400"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=obscure-01&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=00C853&cache_seconds=86400"
-    width="42%"
+    src="https://github-readme-stats.vercel.app/api?username=obscure-01&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true&bg_color=00000000&title_color=F0F6FC&text_color=8B949E&icon_color=00C853&cache_seconds=86400"
+    width="100%"
+    alt="Aman's GitHub Overview"
+  />
+</picture>
+
+</td>
+
+<td width="50%" valign="top">
+
+<p align="center">
+  <strong>Language Distribution</strong><br>
+  <sub>Languages across public repositories</sub>
+</p>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=obscure-01&layout=compact&langs_count=7&hide_border=true&bg_color=00000000&title_color=F0F6FC&text_color=8B949E&icon_color=00C853&cache_seconds=86400"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=obscure-01&layout=compact&langs_count=7&hide_border=true&bg_color=00000000&title_color=24292F&text_color=57606A&icon_color=00A63C&cache_seconds=86400"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=obscure-01&layout=compact&langs_count=7&hide_border=true&bg_color=00000000&title_color=F0F6FC&text_color=8B949E&icon_color=00C853&cache_seconds=86400"
+    width="100%"
     alt="Aman's Most Used Languages"
   />
 </picture>
 
-<br><br>
+</td>
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+  <strong>Consistency</strong><br>
+  <sub>Contribution streak & development rhythm</sub>
+</p>
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com/?user=obscure-01&hide_border=true&background=0D1117&ring=00C853&fire=00C853&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00A88F&sideLabels=00A88F&dates=8B949E&stroke=30363D"
+    srcset="https://streak-stats.demolab.com/?user=obscure-01&hide_border=true&background=00000000&ring=00C853&fire=00C853&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=00C853&sideLabels=8B949E&dates=8B949E&stroke=30363D"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://streak-stats.demolab.com/?user=obscure-01&hide_border=true&background=FFFFFF&ring=00A63C&fire=00A63C&currStreakNum=24292F&sideNums=24292F&currStreakLabel=008F72&sideLabels=008F72&dates=57606A&stroke=D0D7DE"
+    srcset="https://streak-stats.demolab.com/?user=obscure-01&hide_border=true&background=00000000&ring=00A63C&fire=00A63C&currStreakNum=24292F&sideNums=24292F&currStreakLabel=008F72&sideLabels=57606A&dates=57606A&stroke=D0D7DE"
   />
   <img
-    src="https://streak-stats.demolab.com/?user=obscure-01&hide_border=true&background=0D1117&ring=00C853&fire=00C853&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00A88F&sideLabels=00A88F&dates=8B949E&stroke=30363D"
-    width="72%"
-    alt="GitHub Contribution Streak"
+    src="https://streak-stats.demolab.com/?user=obscure-01&hide_border=true&background=00000000&ring=00C853&fire=00C853&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=00C853&sideLabels=8B949E&dates=8B949E&stroke=30363D"
+    width="78%"
+    alt="Aman's GitHub Contribution Streak"
   />
 </picture>
 
 </div>
-
 ---
 
 ## Contribution Activity
+
 
 <div align="center">
 
@@ -603,4 +630,5 @@ I'm always open to <b>learning, collaborating, and building meaningful software<
 <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20in%20India-00C853?style=flat-square" alt="Made with love in India" />
 
 </div>
+
 
