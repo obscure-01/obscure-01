@@ -296,14 +296,13 @@ I enjoy turning ideas into functional software and continuously improving the en
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="middle" align="center">
 
 <img src="./profile/stats.svg" width="100%" alt="Aman's GitHub Statistics" />
 
 </td>
-
 <td width="50%" valign="middle" align="center">
 
 <img src="./profile/top-langs.svg" width="100%" alt="Aman's Most Used Languages" />
@@ -313,6 +312,10 @@ I enjoy turning ideas into functional software and continuously improving the en
 </table>
 
 <br>
+
+<table width="100%">
+<tr>
+<td align="center">
 
 <picture>
   <source
@@ -325,10 +328,14 @@ I enjoy turning ideas into functional software and continuously improving the en
   />
   <img
     src="https://streak-stats.demolab.com/?user=obscure-01&hide_border=false&background=0D1117&ring=00C853&fire=00C853&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=00C853&sideLabels=8B949E&dates=8B949E&stroke=30363D&border=30363D"
-    width="92%"
+    width="100%"
     alt="Aman's GitHub Contribution Streak"
   />
 </picture>
+
+</td>
+</tr>
+</table>
 
 </div>
 ---
