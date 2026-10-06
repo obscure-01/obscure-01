@@ -298,19 +298,13 @@ I enjoy turning ideas into functional software and continuously improving the en
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="middle" align="center">
 
-<h3>◈ GitHub Overview</h3>
-<p><sub>Repository activity & engineering output</sub></p>
-
-<img src="./profile/stats.svg" width="100%" alt="Aman's GitHub Overview" />
+<img src="./profile/stats.svg" width="100%" alt="Aman's GitHub Statistics" />
 
 </td>
 
-<td width="50%" valign="top">
-
-<h3>◈ Language Distribution</h3>
-<p><sub>Primary languages across repositories</sub></p>
+<td width="50%" valign="middle" align="center">
 
 <img src="./profile/top-langs.svg" width="100%" alt="Aman's Most Used Languages" />
 
@@ -319,13 +313,6 @@ I enjoy turning ideas into functional software and continuously improving the en
 </table>
 
 <br>
-
-<table>
-<tr>
-<td align="center">
-
-<h3>◉ Consistency</h3>
-<p><sub>Contribution streak & development rhythm</sub></p>
 
 <picture>
   <source
@@ -338,14 +325,10 @@ I enjoy turning ideas into functional software and continuously improving the en
   />
   <img
     src="https://streak-stats.demolab.com/?user=obscure-01&hide_border=false&background=0D1117&ring=00C853&fire=00C853&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=00C853&sideLabels=8B949E&dates=8B949E&stroke=30363D&border=30363D"
-    width="78%"
+    width="92%"
     alt="Aman's GitHub Contribution Streak"
   />
 </picture>
-
-</td>
-</tr>
-</table>
 
 </div>
 ---
