@@ -216,7 +216,7 @@ Combining software development with technical community leadership and team coor
 <table width="100%">
 <tr>
 
-<td width="100%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 
 <a href="https://airis-security1.vercel.app/">
   <img
@@ -230,7 +230,7 @@ Combining software development with technical community leadership and team coor
 
 </td>
 
-<td width="100%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 
 <a href="https://origo-explore.netlify.app/">
   <img
