@@ -213,33 +213,41 @@ Combining software development with technical community leadership and team coor
 
 <div align="center">
 
-<table width="100%">
+<table width="1100">
 <tr>
 
-<td width="50%" align="center" valign="top">
+<td width="550" align="center" valign="top">
 
 <a href="https://airis-security1.vercel.app/">
   <img
     src="./assets/airis-card.svg"
-    width="100%"
+    width="520"
     alt="AIris Security — AI-Powered Vulnerability Scanner"
   />
-  <br>
-  <sub><b>↗ Explore Live</b></sub>
+</a>
+
+<br>
+
+<a href="https://airis-security1.vercel.app/">
+  <b>↗ Explore Live</b>
 </a>
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td width="550" align="center" valign="top">
 
 <a href="https://origo-explore.netlify.app/">
   <img
     src="./assets/origo-card.svg"
-    width="100%"
+    width="520"
     alt="Origo — Weather-Aware City Exploration Platform"
   />
-  <br>
-  <sub><b>↗ Explore Live</b></sub>
+</a>
+
+<br>
+
+<a href="https://origo-explore.netlify.app/">
+  <b>↗ Explore Live</b>
 </a>
 
 </td>
