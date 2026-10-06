@@ -34,23 +34,36 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Aman Chapadiya** 👋
+<table>
+<tr>
+
+<td width="62%" valign="middle">
+
+### Hi, I'm Aman 👋
 
 I'm a **Software Developer** focused on **full-stack development, backend engineering, cloud computing, and practical software systems**.
 
-My primary interests are **full-stack development, backend engineering, cloud computing, and practical software development**.
+I enjoy working across the complete development lifecycle — from designing responsive interfaces and building APIs to database architecture, deployment, and cloud infrastructure.
 
-I enjoy building applications end-to-end — from responsive interfaces and API integrations to databases, deployment, and real-world user workflows.
+### Currently Focused On
 
-### What I Work On
+- 🌐 **Full-Stack Development**
+- ⚙️ **Backend Engineering & REST APIs**
+- ☁️ **Cloud Computing**
+- 🗄️ **PostgreSQL & MySQL**
+- 🧩 **Data Structures & Algorithms**
+- 🧠 **AI-powered Applications**
 
-- 🌐 Full-Stack Web Development
-- ⚙️ Backend Development & REST APIs
-- ☁️ Cloud Computing
-- 🗄️ PostgreSQL & MySQL
-- 🧩 Data Structures & Algorithms
-- 🧠 AI-integrated Applications
-- 🔧 Software Development & Problem Solving
+</td>
+
+<td width="38%" align="center" valign="middle">
+
+<img src="./assets/Readme_Gif.gif" width="300" alt="Developer workspace animation" />
+
+</td>
+
+</tr>
+</table>
 
 ---
 
