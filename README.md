@@ -216,7 +216,7 @@ Combining software development with technical community leadership and team coor
 <table width="100%">
 <tr>
 
-<td width="50%" align="center" valign="middle">
+<td width="50%" align="center" valign="top">
 
 <a href="https://airis-security1.vercel.app/">
   <img
@@ -224,11 +224,13 @@ Combining software development with technical community leadership and team coor
     width="100%"
     alt="AIris Security — AI-Powered Vulnerability Scanner"
   />
+  <br>
+  <sub><b>↗ Explore Live</b></sub>
 </a>
 
 </td>
 
-<td width="50%" align="center" valign="middle">
+<td width="50%" align="center" valign="top">
 
 <a href="https://origo-explore.netlify.app/">
   <img
@@ -236,6 +238,8 @@ Combining software development with technical community leadership and team coor
     width="100%"
     alt="Origo — Weather-Aware City Exploration Platform"
   />
+  <br>
+  <sub><b>↗ Explore Live</b></sub>
 </a>
 
 </td>
