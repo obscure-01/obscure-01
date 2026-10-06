@@ -311,9 +311,9 @@ I enjoy turning ideas into functional software and continuously improving the en
 <div align="center">
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obscure-01/obscure-01/output/activity-graph-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obscure-01/obscure-01/output/activity-graph-light.svg" />
-<img src="https://raw.githubusercontent.com/obscure-01/obscure-01/output/activity-graph-dark.svg" width="95%" alt="GitHub Contribution Activity Graph" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obscure-01/obscure-01/output/activity-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obscure-01/obscure-01/output/activity-graph-light.svg">
+  <img src="https://raw.githubusercontent.com/obscure-01/obscure-01/output/activity-graph-dark.svg" width="95%" alt="GitHub Contribution Activity Graph">
 </picture>
 
 </div>
