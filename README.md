@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C853,100:00BFA6&height=220&section=header&text=Aman%20Chapadiya&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Developer%20%7C%20Full-Stack%20Development%20%7C%20Cloud%20Computing&descAlignY=60&descSize=17&animation=fadeIn" width="100%" alt="Aman Chapadiya" />
 
@@ -309,15 +309,15 @@ I enjoy turning ideas into functional software and continuously improving the en
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obscure-01/obscure-01/output/github-contribution-grid-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obscure-01/obscure-01/output/github-contribution-grid-snake.svg" />
-<img src="https://raw.githubusercontent.com/obscure-01/obscure-01/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub Contribution Snake" />
-</picture>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=obscure-01&theme=github-compact&hide_border=true&bg_color=0D1117&color=8B949E&line=00C853&point=FFFFFF&area=true" width="95%" alt="GitHub Contribution Activity Graph" />
+
+</div>
 
 </div>
 
