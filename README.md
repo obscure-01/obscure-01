@@ -211,79 +211,39 @@ Combining software development with technical community leadership and team coor
 
 ## 🚀 Featured Projects
 
-<table>
+<div align="center">
+
+<table width="100%">
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="middle">
 
-### 🔒 AIris Security
-
-**AI-Powered Vulnerability Scanner**
-
-A security-focused application with a modular React/Next.js frontend for presenting vulnerability reports and ML-based risk insights.
-
-#### Highlights
-
-- 🧩 5+ reusable UI components
-- 🔗 4 interconnected modules
-- 🛣️ Application routing
-- ✅ Input validation
-- 📱 Responsive design
-- 🔌 REST API integration
-- 📊 Interactive dashboards
-- 🧠 ML-based risk insights
-
-#### Tech Stack
-
-`React.js` `Next.js` `REST APIs`
-
-<br>
-
-<a href="https://github.com/Kush05Bhardwaj/AIris-Security_AI-Powered-Vulnerability-Scanner">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="AIris Security Repository" />
+<a href="https://airis-security1.vercel.app/">
+  <img
+    src="./assets/airis-card.svg"
+    width="100%"
+    alt="AIris Security — AI-Powered Vulnerability Scanner"
+  />
 </a>
 
 </td>
 
-<td width="50%" valign="top">
-
-### 🌦️ Origo
-
-**Weather-Aware City Exploration Platform**
-
-A web platform combining real-time weather, place discovery, and city information into a unified exploration experience.
-
-#### Highlights
-
-- 🌤️ Real-time weather data
-- 📍 Place discovery
-- 🗺️ Interactive maps
-- 🔎 City search
-- ⭐ Favorites
-- 💾 Search persistence
-- 🎨 Dynamic themes
-- 🌦️ Weather-based recommendations
-- 🔗 3 API integrations
-- 📱 Responsive interface
-
-#### Tech Stack
-
-`JavaScript` `HTML5` `CSS3` `OpenWeatherMap` `OpenStreetMap` `Leaflet` `Netlify`
-
-<br>
-
-<a href="https://github.com/obscure-01/origo">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="Origo Repository" />
-</a>
+<td width="50%" align="center" valign="middle">
 
 <a href="https://origo-explore.netlify.app/">
-<img src="https://img.shields.io/badge/LIVE%20DEMO-00C853?style=for-the-badge&logo=netlify&logoColor=white" alt="Origo Live Demo" />
+  <img
+    src="./assets/origo-card.svg"
+    width="100%"
+    alt="Origo — Weather-Aware City Exploration Platform"
+  />
 </a>
 
 </td>
 
 </tr>
 </table>
+
+</div>
 
 ---
 
