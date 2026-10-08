@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C853,100:00BFA6&height=220&section=header&text=Aman%20Chapadiya&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Developer%20%7C%20Full-Stack%20Development%20%7C%20Cloud%20Computing&descAlignY=60&descSize=17&animation=fadeIn" width="100%" alt="Aman Chapadiya" />
+<img src="./assets/README_HEADER.svg" width="100%" alt="Aman Chapadiya — Software Developer" />
 
-<br>
+<br><br>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=00C853&center=true&vCenter=true&width=760&height=50&lines=Building+Practical+Software+%F0%9F%9A%80;Full-Stack+%7C+Backend+%7C+Cloud;Turning+Ideas+Into+Working+Products+%E2%9A%A1;Always+Learning.+Always+Building." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=E0B84F&center=true&vCenter=true&width=820&height=52&lines=Turning+Ideas+Into+Working+Products+%E2%9A%A1;Always+Learning.+Always+Building.;Building+Practical+Software+%F0%9F%9A%80;Full-Stack+%7C+Backend+%7C+Cloud" alt="Aman Chapadiya — Engineering Focus Animation" />
 </a>
 
 <br><br>
@@ -552,9 +552,7 @@ Build software that can actually be used.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C853,100:00BFA6&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer" />
-
-<br>
+<hr>
 
 <sub><b>Build. Learn. Improve. Ship.</b></sub>
 
