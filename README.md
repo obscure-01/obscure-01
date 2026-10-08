@@ -546,29 +546,29 @@ Build software that can actually be used.
 
 <div align="center">
 
-I'm always open to <b>learning, collaborating, and building meaningful software</b>.
+### Open to ideas, collaboration & building.
 
-<br><br>
-
-<a href="https://www.linkedin.com/in/amanchapadiya">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+<br>
 
 <a href="https://github.com/obscure-01">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/◉%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-
+&nbsp;
+<a href="https://www.linkedin.com/in/amanchapadiya">
+<img src="https://img.shields.io/badge/in%20LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
 <a href="https://leetcode.com/u/obscure__/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+<img src="https://img.shields.io/badge/⚡%20LeetCode-181717?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
 </a>
-
+&nbsp;
 <a href="mailto:chapadiya.aman@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<img src="https://img.shields.io/badge/✉%20Email-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <br><br>
 
-<b>Software Developer · Full-Stack Development · Cloud Computing</b>
+<sub>Find me across code, collaboration, problem solving, and direct contact.</sub>
 
 </div>
 
