@@ -226,12 +226,6 @@ Combining software development with technical community leadership and team coor
   />
 </a>
 
-<br>
-
-<a href="https://airis-security1.vercel.app/">
-  <b>↗ Explore Live</b>
-</a>
-
 </td>
 
 <td width="550" align="center" valign="top">
@@ -244,16 +238,14 @@ Combining software development with technical community leadership and team coor
   />
 </a>
 
-<br>
-
-<a href="https://origo-explore.netlify.app/">
-  <b>↗ Explore Live</b>
-</a>
-
 </td>
 
 </tr>
 </table>
+
+<br>
+
+<sub>↗ <b>Click a project card to explore the live application.</b></sub>
 
 </div>
 
