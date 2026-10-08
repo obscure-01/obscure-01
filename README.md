@@ -256,21 +256,27 @@ Combining software development with technical community leadership and team coor
 <table width="100%">
 <tr>
 
-<td width="58%" valign="middle">
+<td width="58%" valign="middle" align="center">
 
 ### ⚙️ How I Build Software
 
-<div align="center">
+<br>
 
-<b>Learn → Build → Test → Improve → Ship</b>
+<img src="https://img.shields.io/badge/01%20LEARN-6C63FF?style=for-the-badge" alt="Learn" />
+<img src="https://img.shields.io/badge/02%20BUILD-00C853?style=for-the-badge" alt="Build" />
+<img src="https://img.shields.io/badge/03%20TEST-00BFA6?style=for-the-badge" alt="Test" />
+<img src="https://img.shields.io/badge/04%20IMPROVE-FFB300?style=for-the-badge" alt="Improve" />
+<img src="https://img.shields.io/badge/05%20SHIP-FF6D00?style=for-the-badge" alt="Ship" />
+
+<br><br>
+
+<sub><b>Understand the problem → build with intent → validate relentlessly → iterate → ship.</b></sub>
 
 <br><br>
 
 <sub>
 I enjoy turning ideas into functional software and continuously improving the engineering behind it.
 </sub>
-
-</div>
 
 </td>
 
