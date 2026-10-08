@@ -253,17 +253,39 @@ Combining software development with technical community leadership and team coor
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="82%" alt="Coding animation" />
+<table width="100%">
+<tr>
 
-<br><br>
+<td width="58%" valign="middle">
+
+### ⚙️ How I Build Software
+
+<div align="center">
 
 <b>Learn → Build → Test → Improve → Ship</b>
 
-<br>
+<br><br>
 
 <sub>
 I enjoy turning ideas into functional software and continuously improving the engineering behind it.
 </sub>
+
+</div>
+
+</td>
+
+<td width="42%" align="center" valign="middle">
+
+<img
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+  width="360"
+  alt="Developer coding illustration"
+/>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
