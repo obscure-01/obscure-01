@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C853,100:00BFA6&height=220&section=header&text=Aman%20Chapadiya&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Developer%20%7C%20Full-Stack%20Development%20%7C%20Cloud%20Computing&descAlignY=60&descSize=17&animation=fadeIn" width="100%" alt="Aman Chapadiya" />
 
@@ -6,24 +6,6 @@
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=00C853&center=true&vCenter=true&width=760&height=50&lines=Building+Practical+Software+%F0%9F%9A%80;Full-Stack+%7C+Backend+%7C+Cloud;Turning+Ideas+Into+Working+Products+%E2%9A%A1;Always+Learning.+Always+Building." alt="Typing SVG" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/obscure-01">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<a href="https://www.linkedin.com/in/amanchapadiya">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="https://leetcode.com/u/obscure__/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-</a>
-
-<a href="mailto:chapadiya.aman@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <br><br>
@@ -343,6 +325,7 @@ I enjoy turning ideas into functional software and continuously improving the en
 </table>
 
 </div>
+
 ---
 
 ## Contribution Activity
@@ -356,6 +339,7 @@ I enjoy turning ideas into functional software and continuously improving the en
 </picture>
 
 </div>
+
 ---
 
 ## ☁️ Cloud Computing
