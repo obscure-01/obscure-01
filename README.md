@@ -550,21 +550,13 @@ Build software that can actually be used.
 
 <br>
 
-<a href="https://github.com/obscure-01">
-<img src="https://img.shields.io/badge/◉%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/amanchapadiya">
-<img src="https://img.shields.io/badge/in%20LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="https://leetcode.com/u/obscure__/">
-<img src="https://img.shields.io/badge/⚡%20LeetCode-181717?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-</a>
-&nbsp;
-<a href="mailto:chapadiya.aman@gmail.com">
-<img src="https://img.shields.io/badge/✉%20Email-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+<a href="https://github.com/obscure-01"><strong>◉ GitHub</strong></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/amanchapadiya"><strong>in LinkedIn</strong></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://leetcode.com/u/obscure__/"><strong>⚡ LeetCode</strong></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:chapadiya.aman@gmail.com"><strong>✉ Email</strong></a>
 
 <br><br>
 
