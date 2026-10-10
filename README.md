@@ -530,29 +530,32 @@ Build software that can actually be used.
 
 <div align="center">
 
+<img src="./assets/contact-accent.svg" width="300" alt="Gold architectural divider with AC monogram" />
+
+<br>
+
 ### Open to ideas, collaboration & building.
 
 <br>
 
 <a href="https://github.com/obscure-01" title="GitHub">
-  <img src="https://cdn.simpleicons.org/github/E0B84F" width="28" height="28" alt="GitHub" />
+  <img src="https://cdn.simpleicons.org/github/E0B84F" width="30" height="30" alt="GitHub" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/amanchapadiya" title="LinkedIn">
-  <img src="https://img.icons8.com/ios-filled/50/E0B84F/linkedin.png" width="28" height="28" alt="LinkedIn" />
+  <img src="https://img.icons8.com/ios-filled/50/E0B84F/linkedin.png" width="30" height="30" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/u/obscure__/" title="LeetCode">
-  <img src="https://cdn.simpleicons.org/leetcode/E0B84F" width="28" height="28" alt="LeetCode" />
+  <img src="https://cdn.simpleicons.org/leetcode/E0B84F" width="30" height="30" alt="LeetCode" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:chapadiya.aman@gmail.com" title="Email">
-  <img src="https://cdn.simpleicons.org/gmail/E0B84F" width="28" height="28" alt="Email" />
+  <img src="https://cdn.simpleicons.org/gmail/E0B84F" width="30" height="30" alt="Email" />
 </a>
 
-<br>
+<br><br>
 
-<sub>
 <a href="https://github.com/obscure-01">GitHub</a>
 &nbsp; · &nbsp;
 <a href="https://www.linkedin.com/in/amanchapadiya">LinkedIn</a>
@@ -560,11 +563,14 @@ Build software that can actually be used.
 <a href="https://leetcode.com/u/obscure__/">LeetCode</a>
 &nbsp; · &nbsp;
 <a href="mailto:chapadiya.aman@gmail.com">Email</a>
-</sub>
 
 <br><br>
 
 <sub>Code · Connect · Collaborate</sub>
+
+<br><br>
+
+<img src="./assets/contact-accent.svg" width="300" alt="Gold architectural divider" />
 
 </div>
 
@@ -576,6 +582,6 @@ Build software that can actually be used.
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20in%20India-00C853?style=flat-square" alt="Made with love in India" />
+<sub>Made with <span>♥</span> in India</sub>
 
 </div>
