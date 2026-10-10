@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="380" height="14" viewBox="0 0 380 14" role="img" aria-labelledby="title desc">
-  <title id="title">Architectural gold divider</title>
-  <desc id="desc">Thin graphite horizontal lines separated by a short warm gold line and a centered gold dot.</desc>
-  <path d="M0 7H145 M235 7H380" fill="none" stroke="#30363D" stroke-width="1"/>
-  <path d="M163 7H217" fill="none" stroke="#E0B84F" stroke-width="2"/>
-  <circle cx="190" cy="7" r="3" fill="#E0B84F"/>
-</svg>
