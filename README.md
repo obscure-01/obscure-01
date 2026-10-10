@@ -5,7 +5,7 @@
 <br><br>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=E0B84F&center=true&vCenter=true&width=820&height=52&lines=Turning+Ideas+Into+Working+Products+%E2%9A%A1;Always+Learning.+Always+Building.;Building+Practical+Software+%F0%9F%9A%80;Full-Stack+%7C+Backend+%7C+Cloud" alt="Aman Chapadiya — Engineering Focus Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=1000&color=E0B84F&center=true&vCenter=true&width=900&height=56&lines=Building,+Testing,+and+Improving+Software;Communication.+Coordination.+Commitment.;Open+to+Freelance+Projects;Full-Stack,+Cloud+%26+AI" alt="Aman Chapadiya — Professional Focus Animation" />
 </a>
 
 <br><br>
