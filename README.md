@@ -534,25 +534,47 @@ Build software that can actually be used.
 
 <br>
 
-<a href="https://github.com/obscure-01"><strong>◉ GitHub</strong></a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/amanchapadiya"><strong>in LinkedIn</strong></a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://leetcode.com/u/obscure__/"><strong>⚡ LeetCode</strong></a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="mailto:chapadiya.aman@gmail.com"><strong>✉ Email</strong></a>
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://github.com/obscure-01">
+        <img src="https://cdn.simpleicons.org/github/E0B84F" width="22" height="22" alt="GitHub" />
+        <br><sub><b>GitHub</b></sub>
+      </a>
+    </td>
+    <td width="18"></td>
+    <td align="center" valign="middle">
+      <a href="https://www.linkedin.com/in/amanchapadiya">
+        <img src="https://cdn.simpleicons.org/linkedin/E0B84F" width="22" height="22" alt="LinkedIn" />
+        <br><sub><b>LinkedIn</b></sub>
+      </a>
+    </td>
+    <td width="18"></td>
+    <td align="center" valign="middle">
+      <a href="https://leetcode.com/u/obscure__/">
+        <img src="https://cdn.simpleicons.org/leetcode/E0B84F" width="22" height="22" alt="LeetCode" />
+        <br><sub><b>LeetCode</b></sub>
+      </a>
+    </td>
+    <td width="18"></td>
+    <td align="center" valign="middle">
+      <a href="mailto:chapadiya.aman@gmail.com">
+        <img src="https://cdn.simpleicons.org/gmail/E0B84F" width="22" height="22" alt="Email" />
+        <br><sub><b>Email</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<br><br>
+<br>
 
-<sub>Find me across code, collaboration, problem solving, and direct contact.</sub>
+<sub>Code · Connect · Collaborate</sub>
 
 </div>
 
 ---
 
 <div align="center">
-
-<hr>
 
 <sub><b>Build. Learn. Improve. Ship.</b></sub>
 
