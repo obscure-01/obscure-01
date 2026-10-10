@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="112" viewBox="0 0 120 112" role="img" aria-labelledby="title">
+<title id="title">LeetCode</title>
+<rect x="1" y="1" width="118" height="110" rx="11" fill="#0D1117" stroke="#45413A" stroke-width="1.5"/>
+<g transform="translate(43 18)" fill="none" stroke="#E0B84F" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><path d="M20 0L7 13c-5 5-5 11 0 16l7 7"/><path d="M12 17h20"/><path d="M13 27h18"/></g>
+<text x="60" y="83" fill="#F0F6FC" font-family="Arial,Helvetica,sans-serif" font-size="15" text-anchor="middle">LeetCode</text>
+</svg>
