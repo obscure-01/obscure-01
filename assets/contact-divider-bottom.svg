@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="8" viewBox="0 0 380 8" role="img" aria-labelledby="title desc">
+  <title id="title">Architectural footer divider</title>
+  <desc id="desc">A fine graphite line with a short warm gold centre accent.</desc>
+  <path d="M0 4H380" fill="none" stroke="#30363D" stroke-width="1"/>
+  <path d="M130 4H250" fill="none" stroke="#E0B84F" stroke-width="2"/>
+</svg>
