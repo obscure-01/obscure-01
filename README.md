@@ -526,61 +526,44 @@ Build software that can actually be used.
 
 ---
 
-## 🤝 Let's Connect
-
 <div align="center">
 
-<img src="./assets/contact-accent.svg" width="300" alt="Gold architectural divider with AC monogram" />
+<p><sub><b><span style="color:#E0B84F;">LET'S CONNECT</span></b></sub></p>
+
+<img src="./assets/contact-divider-top.svg" width="380" alt="Thin graphite lines with a warm gold centre accent" />
+
+<h3>Open to ideas, collaboration &amp; building.</h3>
 
 <br>
 
-### Open to ideas, collaboration & building.
-
-<br>
-
-<a href="https://github.com/obscure-01" title="GitHub">
-  <img src="https://cdn.simpleicons.org/github/E0B84F" width="30" height="30" alt="GitHub" />
+<a href="https://github.com/obscure-01" title="GitHub" style="display:inline-block; border:1px solid #45413A; border-radius:8px; padding:12px 14px; margin:4px; color:#F0F0F0; text-decoration:none;">
+  <img src="https://cdn.simpleicons.org/github/E0B84F" width="24" height="24" alt="GitHub logo" /><br>
+  <span>GitHub</span>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/amanchapadiya" title="LinkedIn">
-  <img src="https://img.icons8.com/ios-filled/50/E0B84F/linkedin.png" width="30" height="30" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/amanchapadiya" title="LinkedIn" style="display:inline-block; border:1px solid #45413A; border-radius:8px; padding:12px 14px; margin:4px; color:#F0F0F0; text-decoration:none;">
+  <img src="https://cdn.simpleicons.org/linkedin/E0B84F" width="24" height="24" alt="LinkedIn logo" /><br>
+  <span>LinkedIn</span>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/u/obscure__/" title="LeetCode">
-  <img src="https://cdn.simpleicons.org/leetcode/E0B84F" width="30" height="30" alt="LeetCode" />
+<a href="https://leetcode.com/u/obscure__/" title="LeetCode" style="display:inline-block; border:1px solid #45413A; border-radius:8px; padding:12px 14px; margin:4px; color:#F0F0F0; text-decoration:none;">
+  <img src="https://cdn.simpleicons.org/leetcode/E0B84F" width="24" height="24" alt="LeetCode logo" /><br>
+  <span>LeetCode</span>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:chapadiya.aman@gmail.com" title="Email">
-  <img src="https://cdn.simpleicons.org/gmail/E0B84F" width="30" height="30" alt="Email" />
+<a href="mailto:chapadiya.aman@gmail.com" title="Email" style="display:inline-block; border:1px solid #45413A; border-radius:8px; padding:12px 14px; margin:4px; color:#F0F0F0; text-decoration:none;">
+  <img src="https://cdn.simpleicons.org/gmail/E0B84F" width="24" height="24" alt="Email logo" /><br>
+  <span>Email</span>
 </a>
 
 <br><br>
 
-<a href="https://github.com/obscure-01">GitHub</a>
-&nbsp; · &nbsp;
-<a href="https://www.linkedin.com/in/amanchapadiya">LinkedIn</a>
-&nbsp; · &nbsp;
-<a href="https://leetcode.com/u/obscure__/">LeetCode</a>
-&nbsp; · &nbsp;
-<a href="mailto:chapadiya.aman@gmail.com">Email</a>
+<img src="./assets/contact-divider-bottom.svg" width="380" alt="Graphite divider with a centred warm gold accent line" />
 
-<br><br>
-
-<sub>Code · Connect · Collaborate</sub>
-
-<br><br>
-
-<img src="./assets/contact-accent.svg" width="300" alt="Gold architectural divider" />
+<p><sub><b><span style="color:#E0B84F;">BUILD · LEARN · IMPROVE · SHIP</span></b></sub></p>
 
 </div>
 
 ---
 
 <div align="center">
-
-<sub><b>Build. Learn. Improve. Ship.</b></sub>
-
-<br><br>
 
 <sub>Made with <span>♥</span> in India</sub>
 
