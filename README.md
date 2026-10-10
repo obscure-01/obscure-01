@@ -530,7 +530,7 @@ Build software that can actually be used.
 
 <p><strong>LET'S CONNECT</strong></p>
 
-<img src="./assets/contact-divider-top-v24.svg" width="380" alt="Graphite divider with a warm-gold centre accent" />
+<img src="./assets/contact-divider-top-v25.svg" width="380" alt="Gold accent divider" />
 
 <h3>Open to ideas, collaboration &amp; building.</h3>
 
@@ -559,9 +559,7 @@ Build software that can actually be used.
   </tr>
 </table>
 
-<br>
-
-<img src="./assets/contact-divider-bottom-v24.svg" width="380" alt="Graphite divider with a warm-gold centre stroke" />
+<img src="./assets/contact-divider-bottom-v25.svg" width="380" alt="Gold closing divider" />
 
 <p><sub><strong>BUILD · LEARN · IMPROVE · SHIP</strong></sub></p>
 
