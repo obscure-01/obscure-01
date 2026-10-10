@@ -561,6 +561,10 @@ Build software that can actually be used.
 
 <div align="center">
 
+<img src="./assets/footer-emerald-flow-v27.gif" width="100%" alt="Seamless emerald and teal flow animation on a graphite background" />
+
+<br>
+
 <sub>Made with <span>♥</span> in India</sub>
 
 </div>
