@@ -530,36 +530,28 @@ Build software that can actually be used.
 
 <p><strong>LET'S CONNECT</strong></p>
 
-<img src="./assets/contact-divider-top-v25.svg" width="380" alt="Gold accent divider" />
+<img src="./assets/contact-divider-top-v26.svg" width="380" alt="Graphite divider with a warm-gold centre accent" />
 
 <h3>Open to ideas, collaboration &amp; building.</h3>
 
 <table>
   <tr>
-    <td align="center">
-      <a href="https://github.com/obscure-01">
-        <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=E0B84F" alt="GitHub" />
-      </a>
+    <td align="center" width="130">
+      <a href="https://github.com/obscure-01"><img src="./assets/contact-github-v26.svg" width="108" alt="GitHub contact card" /></a>
     </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/amanchapadiya">
-        <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=E0B84F" alt="LinkedIn" />
-      </a>
+    <td align="center" width="130">
+      <a href="https://www.linkedin.com/in/amanchapadiya"><img src="./assets/contact-linkedin-v26.svg" width="108" alt="LinkedIn contact card" /></a>
     </td>
-    <td align="center">
-      <a href="https://leetcode.com/u/obscure__/">
-        <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=E0B84F" alt="LeetCode" />
-      </a>
+    <td align="center" width="130">
+      <a href="https://leetcode.com/u/obscure__/"><img src="./assets/contact-leetcode-v26.svg" width="108" alt="LeetCode contact card" /></a>
     </td>
-    <td align="center">
-      <a href="mailto:chapadiya.aman@gmail.com">
-        <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=E0B84F" alt="Email" />
-      </a>
+    <td align="center" width="130">
+      <a href="mailto:chapadiya.aman@gmail.com"><img src="./assets/contact-email-v26.svg" width="108" alt="Email contact card" /></a>
     </td>
   </tr>
 </table>
 
-<img src="./assets/contact-divider-bottom-v25.svg" width="380" alt="Gold closing divider" />
+<img src="./assets/contact-divider-bottom-v26.svg" width="380" alt="Graphite divider with a warm-gold centre stroke" />
 
 <p><sub><strong>BUILD · LEARN · IMPROVE · SHIP</strong></sub></p>
 
