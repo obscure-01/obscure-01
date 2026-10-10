@@ -561,7 +561,7 @@ Build software that can actually be used.
 
 <div align="center">
 
-<img src="./assets/footer-emerald-flow-v27.gif" width="100%" alt="Seamless emerald and teal flow animation on a graphite background" />
+<img src="./assets/footer-glacier-to-emerald-v30.gif" width="100%" alt="Seamless emerald and teal flow animation on a graphite background" />
 
 <br>
 
