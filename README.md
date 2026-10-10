@@ -528,36 +528,42 @@ Build software that can actually be used.
 
 <div align="center">
 
-<p><sub><b><span style="color:#E0B84F;">LET'S CONNECT</span></b></sub></p>
+<p><strong>LET'S CONNECT</strong></p>
 
-<img src="./assets/contact-divider-top.svg" width="380" alt="Thin graphite lines with a warm gold centre accent" />
+<img src="./assets/contact-divider-top-v24.svg" width="380" alt="Graphite divider with a warm-gold centre accent" />
 
 <h3>Open to ideas, collaboration &amp; building.</h3>
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/obscure-01">
+        <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=E0B84F" alt="GitHub" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/amanchapadiya">
+        <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=E0B84F" alt="LinkedIn" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://leetcode.com/u/obscure__/">
+        <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=E0B84F" alt="LeetCode" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:chapadiya.aman@gmail.com">
+        <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=E0B84F" alt="Email" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 <br>
 
-<a href="https://github.com/obscure-01" title="GitHub" style="display:inline-block; border:1px solid #45413A; border-radius:8px; padding:12px 14px; margin:4px; color:#F0F0F0; text-decoration:none;">
-  <img src="https://cdn.simpleicons.org/github/E0B84F" width="24" height="24" alt="GitHub logo" /><br>
-  <span>GitHub</span>
-</a>
-<a href="https://www.linkedin.com/in/amanchapadiya" title="LinkedIn" style="display:inline-block; border:1px solid #45413A; border-radius:8px; padding:12px 14px; margin:4px; color:#F0F0F0; text-decoration:none;">
-  <img src="https://cdn.simpleicons.org/linkedin/E0B84F" width="24" height="24" alt="LinkedIn logo" /><br>
-  <span>LinkedIn</span>
-</a>
-<a href="https://leetcode.com/u/obscure__/" title="LeetCode" style="display:inline-block; border:1px solid #45413A; border-radius:8px; padding:12px 14px; margin:4px; color:#F0F0F0; text-decoration:none;">
-  <img src="https://cdn.simpleicons.org/leetcode/E0B84F" width="24" height="24" alt="LeetCode logo" /><br>
-  <span>LeetCode</span>
-</a>
-<a href="mailto:chapadiya.aman@gmail.com" title="Email" style="display:inline-block; border:1px solid #45413A; border-radius:8px; padding:12px 14px; margin:4px; color:#F0F0F0; text-decoration:none;">
-  <img src="https://cdn.simpleicons.org/gmail/E0B84F" width="24" height="24" alt="Email logo" /><br>
-  <span>Email</span>
-</a>
+<img src="./assets/contact-divider-bottom-v24.svg" width="380" alt="Graphite divider with a warm-gold centre stroke" />
 
-<br><br>
-
-<img src="./assets/contact-divider-bottom.svg" width="380" alt="Graphite divider with a centred warm gold accent line" />
-
-<p><sub><b><span style="color:#E0B84F;">BUILD · LEARN · IMPROVE · SHIP</span></b></sub></p>
+<p><sub><strong>BUILD · LEARN · IMPROVE · SHIP</strong></sub></p>
 
 </div>
 
