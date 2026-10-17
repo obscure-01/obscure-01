@@ -8,7 +8,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=1000&color=E0B84F&center=true&vCenter=true&width=900&height=56&lines=Building,+Testing,+and+Improving+Software;Communication.+Coordination.+Commitment.;Open+to+Freelance+Projects;Full-Stack,+Cloud+%26+AI" alt="Aman Chapadiya — Professional Focus Animation" />
 </a>
 
-<br><br>
+<br><br
 
 </div>
 
