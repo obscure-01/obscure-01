@@ -18,35 +18,73 @@
 
 <table>
 <tr>
-
 <td width="62%" valign="middle">
 
 ### Hi, I'm Aman 👋
 
-I'm a **Software Developer** focused on **full-stack development, backend engineering, cloud computing, and practical software systems**.
+I'm a **Software Developer** focused on building practical applications and solving real-world problems.
 
-I enjoy working across the complete development lifecycle — from designing responsive interfaces and building APIs to database architecture, deployment, and cloud infrastructure.
+<table>
+<tr>
+<td width="48" align="center" valign="top">
+<img src="./assets/about-fullstack.svg" width="36" height="36" alt="Full-stack development icon" />
+</td>
+<td valign="middle">
 
-### Currently Focused On
+**Full-Stack Development**
 
-- 🌐 **Full-Stack Development**
-- ⚙️ **Backend Engineering & REST APIs**
-- ☁️ **Cloud Computing**
-- 🗄️ **PostgreSQL & MySQL**
-- 🧩 **Data Structures & Algorithms**
-- 🧠 **AI-powered Applications**
+Build end-to-end applications, from responsive interfaces to backend services and databases.
 
 </td>
+</tr>
+<tr>
+<td width="48" align="center" valign="top">
+<img src="./assets/about-engineering.svg" width="36" height="36" alt="Software engineering icon" />
+</td>
+<td valign="middle">
 
-<td width="38%" align="center" valign="middle">
+**Software Engineering**
 
-<img src="./assets/Readme_Gif.gif" width="300" alt="Developer workspace animation" />
+Write clean, maintainable code with a focus on performance, scalability, and long-term reliability.
 
 </td>
+</tr>
+<tr>
+<td width="48" align="center" valign="top">
+<img src="./assets/about-problem-solving.svg" width="36" height="36" alt="Algorithmic problem-solving icon" />
+</td>
+<td valign="middle">
 
+**Algorithmic Problem-Solving**
+
+Apply data structures, algorithms, and logical reasoning to tackle complex, real-world challenges.
+
+</td>
+</tr>
+<tr>
+<td width="48" align="center" valign="top">
+<img src="./assets/about-communication.svg" width="36" height="36" alt="Communication and leadership icon" />
+</td>
+<td valign="middle">
+
+**Communication &amp; Leadership**
+
+Collaborate with teams, communicate clearly, and take initiative to turn ideas into impactful outcomes.
+
+</td>
 </tr>
 </table>
 
+</td>
+<td width="38%" align="center" valign="middle">
+
+<img src="./assets/Readme_Gif.gif" width="300" alt="Developer working at a desk" />
+
+</td>
+</tr>
+</table>
+
+---
 ---
 
 ## 🧑‍💼 Experience & Leadership
@@ -560,9 +598,11 @@ Build software that can actually be used.
 ---
 
 <div align="center">
-  <img
-    src="./assets/footer-glacier-to-emerald.gif"
-    width="100%"
-    alt="Glacier-blue to emerald flowing ocean waves"
-  />
+
+<img src="./assets/footer-glacier-to-emerald.gif" width="100%" alt="Seamless emerald and teal flow animation on a graphite background" />
+
+<br>
+
+<sub>Made with <span>♥</span> in India</sub>
+
 </div>
