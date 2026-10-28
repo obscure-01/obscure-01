@@ -5,7 +5,7 @@
 <br><br>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=1000&color=E0B84F&center=true&vCenter=true&width=900&height=56&lines=Building,+Testing,+and+Improving+Software;Communication.+Coordination.+Commitment.;Open+to+Freelance+Projects;Full-Stack,+Cloud+%26+AI" alt="Aman Chapadiya — Professional Focus Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=850&color=E0B84F&center=true&vCenter=true&width=760&height=48&lines=Building,+Testing,+and+Improving+Software;Communication.+Coordination.+Commitment.;Open+to+Freelance+Projects;Full-Stack,+Cloud+%26+AI" alt="Aman Chapadiya — Professional Focus Animation" />
 </a>
 
 <br><br>
@@ -16,75 +16,59 @@
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="62%" valign="middle">
+<div align="center">
 
 ### Hi, I'm Aman 👋
 
 I'm a **Software Developer** focused on building practical applications and solving real-world problems.
 
+</div>
+
 <table>
 <tr>
-<td width="48" align="center" valign="top">
-<img src="./assets/about-fullstack.svg" width="36" height="36" alt="Full-stack development icon" />
-</td>
+<td width="52" align="center" valign="middle"><img src="./assets/about-fullstack.svg" width="32" height="32" alt="Full-stack development" /></td>
 <td valign="middle">
 
-**Full-Stack Development**
-
+**Full-Stack Development**  
 Build end-to-end applications, from responsive interfaces to backend services and databases.
 
 </td>
 </tr>
 <tr>
-<td width="48" align="center" valign="top">
-<img src="./assets/about-engineering.svg" width="36" height="36" alt="Software engineering icon" />
-</td>
+<td width="52" align="center" valign="middle"><img src="./assets/about-engineering.svg" width="32" height="32" alt="Software engineering" /></td>
 <td valign="middle">
 
-**Software Engineering**
-
-Write clean, maintainable code with a focus on performance, scalability, and long-term reliability.
+**Software Engineering**  
+Write clean, maintainable code focused on performance, scalability, and reliability.
 
 </td>
 </tr>
 <tr>
-<td width="48" align="center" valign="top">
-<img src="./assets/about-problem-solving.svg" width="36" height="36" alt="Algorithmic problem-solving icon" />
-</td>
+<td width="52" align="center" valign="middle"><img src="./assets/about-problem-solving.svg" width="32" height="32" alt="Algorithmic problem-solving" /></td>
 <td valign="middle">
 
-**Algorithmic Problem-Solving**
-
-Apply data structures, algorithms, and logical reasoning to tackle complex, real-world challenges.
+**Algorithmic Problem-Solving**  
+Use data structures, algorithms, and logical reasoning to solve challenging problems.
 
 </td>
 </tr>
 <tr>
-<td width="48" align="center" valign="top">
-<img src="./assets/about-communication.svg" width="36" height="36" alt="Communication and leadership icon" />
-</td>
+<td width="52" align="center" valign="middle"><img src="./assets/about-communication.svg" width="32" height="32" alt="Communication and leadership" /></td>
 <td valign="middle">
 
-**Communication &amp; Leadership**
-
-Collaborate with teams, communicate clearly, and take initiative to turn ideas into impactful outcomes.
+**Communication &amp; Leadership**  
+Collaborate clearly, take initiative, and coordinate people to turn ideas into outcomes.
 
 </td>
 </tr>
 </table>
 
-</td>
-<td width="38%" align="center" valign="middle">
+<div align="center">
 
-<img src="./assets/Readme_Gif.gif" width="300" alt="Developer working at a desk" />
+<img src="./assets/Readme_Gif.gif" width="240" alt="Developer working at a desk" />
 
-</td>
-</tr>
-</table>
+</div>
 
----
 ---
 
 ## 🧑‍💼 Experience & Leadership
