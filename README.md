@@ -560,11 +560,9 @@ Build software that can actually be used.
 ---
 
 <div align="center">
-
-<img src="./assets/footer-glacier-to-emerald.gif" width="100%" alt="Seamless emerald and teal flow animation on a graphite background" />
-
-<br>
-
-<sub>Made with <span>♥</span> in India</sub>
-
+  <img
+    src="./assets/footer-glacier-to-emerald.gif"
+    width="100%"
+    alt="Glacier-blue to emerald flowing ocean waves"
+  />
 </div>
