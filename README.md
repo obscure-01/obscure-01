@@ -16,58 +16,75 @@
 
 ## 👨‍💻 About Me
 
-<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="30%" align="center" valign="middle">
+
+<img src="./assets/Readme_Gif.gif" width="210" alt="Developer working at a desk" />
+
+<p><sub><strong>BUILD · LEARN · CREATE · REPEAT</strong></sub></p>
+
+</td>
+<td width="70%" valign="middle">
 
 ### Hi, I'm Aman 👋
 
 I'm a **Software Developer** focused on building practical applications and solving real-world problems.
 
-</div>
-
-<table>
+<table border="0" cellpadding="8" cellspacing="8" width="100%">
 <tr>
-<td width="52" align="center" valign="middle"><img src="./assets/about-fullstack.svg" width="32" height="32" alt="Full-stack development" /></td>
-<td valign="middle">
+<td width="50%" valign="top" bgcolor="#111820">
 
-**Full-Stack Development**  
-Build end-to-end applications, from responsive interfaces to backend services and databases.
+<img src="./assets/about-line-cyan.svg" width="100%" height="3" alt="" />
+
+<img src="./assets/about-fullstack.svg" width="30" height="30" alt="Full-stack development" />
+
+**Full-Stack Development**
+
+<sub>Build end-to-end applications, from responsive interfaces to backend services and databases.</sub>
+
+</td>
+<td width="50%" valign="top" bgcolor="#111820">
+
+<img src="./assets/about-line-emerald.svg" width="100%" height="3" alt="" />
+
+<img src="./assets/about-engineering.svg" width="30" height="30" alt="Software engineering" />
+
+**Software Engineering**
+
+<sub>Write clean, maintainable code with a focus on performance, scalability, and reliability.</sub>
 
 </td>
 </tr>
 <tr>
-<td width="52" align="center" valign="middle"><img src="./assets/about-engineering.svg" width="32" height="32" alt="Software engineering" /></td>
-<td valign="middle">
+<td width="50%" valign="top" bgcolor="#111820">
 
-**Software Engineering**  
-Write clean, maintainable code focused on performance, scalability, and reliability.
+<img src="./assets/about-line-amber.svg" width="100%" height="3" alt="" />
 
-</td>
-</tr>
-<tr>
-<td width="52" align="center" valign="middle"><img src="./assets/about-problem-solving.svg" width="32" height="32" alt="Algorithmic problem-solving" /></td>
-<td valign="middle">
+<img src="./assets/about-problem-solving.svg" width="30" height="30" alt="Algorithmic problem-solving" />
 
-**Algorithmic Problem-Solving**  
-Use data structures, algorithms, and logical reasoning to solve challenging problems.
+**Algorithmic Problem-Solving**
+
+<sub>Apply data structures, algorithms, and logical reasoning to solve complex challenges.</sub>
 
 </td>
-</tr>
-<tr>
-<td width="52" align="center" valign="middle"><img src="./assets/about-communication.svg" width="32" height="32" alt="Communication and leadership" /></td>
-<td valign="middle">
+<td width="50%" valign="top" bgcolor="#111820">
 
-**Communication &amp; Leadership**  
-Collaborate clearly, take initiative, and coordinate people to turn ideas into outcomes.
+<img src="./assets/about-line-blue.svg" width="100%" height="3" alt="" />
+
+<img src="./assets/about-communication.svg" width="30" height="30" alt="Communication and leadership" />
+
+**Communication &amp; Leadership**
+
+<sub>Collaborate clearly, take initiative, and coordinate people to turn ideas into outcomes.</sub>
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-<img src="./assets/Readme_Gif.gif" width="240" alt="Developer working at a desk" />
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -587,6 +604,6 @@ Build software that can actually be used.
 
 <br>
 
-
+<sub>Made with <span>♥</span> in India</sub>
 
 </div>
