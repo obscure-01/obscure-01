@@ -587,6 +587,6 @@ Build software that can actually be used.
 
 <br>
 
-<sub>Made with <span>♥</span> in India</sub>
+
 
 </div>
